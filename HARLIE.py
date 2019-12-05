@@ -26,9 +26,9 @@ async def on_message(message):
     print(message.channel.name)
     print(message.content)
     file.write('Author = '+ str(message.author))
-    file.write(' Channel = '+ str(message.channel.name))
-    file.write(' Said: ' + str(message.content))
-    file.write(' At: ' + str(dt.now()) + '\n')
+    file.write('| Channel = '+ str(message.channel.name))
+    file.write('| Said: ' + str(message.content))
+    file.write('| At: ' + str(dt.now()) + '\n')
     file.close()
 
 
@@ -38,7 +38,6 @@ async def sayFunction(message_content, message):
     message_content.remove(':H')
     message_content.remove('say')
     await message.channel.send(" ".join(message_content))
-
 
 
 keep_alive()
