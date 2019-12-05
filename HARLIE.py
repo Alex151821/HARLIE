@@ -42,5 +42,5 @@ async def sayFunction(message_content, message):
 
 
 keep_alive()
-token = os.environ.get("DISCORD_BOT_SECRET")
+token = os.environ.get('DISCORD_BOT_SECRET')
 client.run(token)
