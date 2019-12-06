@@ -5,11 +5,12 @@ print(wavfile.read("Boomdeyada.wav"))
 sf, data = wavfile.read("Boomdeyada.wav")
 a = data[:319].T[0]
 b = [(n/2**16.) * 2-1 for n in a]
-#print(b[:500])
+print(b[:500])
 c = fft(b)
 d = len(c)/2
 #print(c[:100])
 
-plot = plt.specgram(b, )
-plot.show()
+plot = plt.specgram(b, 320)
+plot.plot
+plt.show()
 

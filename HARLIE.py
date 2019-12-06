@@ -21,6 +21,8 @@ async def on_message(message):
       message_content = message.content.split(' ')
       if message_content[1] == 'say':
         await sayFunction(message_content, message)
+      
+
         
     
     file = open('conversations.txt', 'a')
@@ -42,15 +44,7 @@ async def sayFunction(message_content, message):
     message_content.remove(':H')
     message_content.remove('say')
     await message.channel.send(" ".join(message_content))
-"""
-@client.event
-async def outFunction(message):
-    b = ''
-    a = input("Respond? y/n")
-    if a.lower() == 'y':
-        b = input()
-    await message.channel.send(b)
-"""
+
 keep_alive()
 token = os.environ.get('DISCORD_BOT_SECRET')
 client.run(token)
