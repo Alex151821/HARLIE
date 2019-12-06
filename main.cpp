@@ -1,6 +1,5 @@
 #include <iostream>
-#include "AudioFile/AudioFile.h" 
-#include "apfloat/apfloat.h"
+#include "AudioFile/AudioFile.h"
 #include "multiply.h"
 #include <vector>
 using namespace std;
