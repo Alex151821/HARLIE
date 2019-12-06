@@ -45,12 +45,12 @@ async def sayFunction(message_content, message):
 """
 @client.event
 async def outFunction(message):
-    while(True):
-        a = input()
-        break
-    await message.channel.send(a)
+    b = ''
+    a = input("Respond? y/n")
+    if a.lower() == 'y':
+        b = input()
+    await message.channel.send(b)
 """
-
 keep_alive()
 token = os.environ.get('DISCORD_BOT_SECRET')
 client.run(token)
