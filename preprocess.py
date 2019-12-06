@@ -1,5 +1,6 @@
 from scipy.io import wavfile
 from scipy.fftpack import fft
+from matplotlib import pyplot as plt
 print(wavfile.read("Boomdeyada.wav"))
 sf, data = wavfile.read("Boomdeyada.wav")
 a = data[:319].T[0]
@@ -9,4 +10,6 @@ c = fft(b)
 d = len(c)/2
 #print(c[:100])
 
+plot = plt.specgram(b, )
+plot.show()
 
