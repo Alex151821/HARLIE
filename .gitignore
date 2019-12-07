@@ -1,2 +1,6 @@
 /Debug/
 main
+.gitpod.Docker
+.gitpod.yml
+.cproject
+.project
