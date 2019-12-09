@@ -64,3 +64,4 @@ Author = alex151821#0266| Channel = bots-arguments-debates| Said: h| At: 2019-12
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: hi| At: 2019-12-06 03:35:10.505690
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: h| At: 2019-12-06 03:35:49.406838
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: h| At: 2019-12-06 03:35:53.679743
+Author = RonMan#6087| Channel = general| Said: https://youtu.be/ahZFCF--uRY| At: 2019-12-09 17:03:45.210375

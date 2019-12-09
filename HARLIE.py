@@ -3,6 +3,7 @@ import os
 from keep_alive import keep_alive
 from datetime import datetime as dt
 import time
+import random
 
 client = discord.Client()
 
@@ -21,6 +22,8 @@ async def on_message(message):
       message_content = message.content.split(' ')
       if message_content[1] == 'say':
         await sayFunction(message_content, message)
+      elif message_content[1] == 'roll':
+        await rollFunction(message_content, message)
       
 
         
@@ -34,8 +37,6 @@ async def on_message(message):
     file.write('| Said: ' + str(message.content))
     file.write('| At: ' + str(dt.now()) + '\n')
     file.close()
-    #await outFunction(message)
-    #print("hi")
     
 
 @client.event
@@ -44,6 +45,10 @@ async def sayFunction(message_content, message):
     message_content.remove(':H')
     message_content.remove('say')
     await message.channel.send(" ".join(message_content))
+
+@client.event
+async def rollFunction(message_content, message):
+    return 0
 
 keep_alive()
 token = os.environ.get('DISCORD_BOT_SECRET')
