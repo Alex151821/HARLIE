@@ -65,3 +65,15 @@ Author = alex151821#0266| Channel = bots-arguments-debates| Said: hi| At: 2019-1
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: h| At: 2019-12-06 03:35:49.406838
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: h| At: 2019-12-06 03:35:53.679743
 Author = RonMan#6087| Channel = general| Said: https://youtu.be/ahZFCF--uRY| At: 2019-12-09 17:03:45.210375
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d6| At: 2019-12-09 20:06:41.426868
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 2d8| At: 2019-12-09 20:07:02.112827
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 4d10| At: 2019-12-09 20:07:56.442424
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d10| At: 2019-12-09 20:10:16.510630
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d10| At: 2019-12-09 20:12:34.702259
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d10| At: 2019-12-09 20:16:40.259565
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d10| At: 2019-12-09 20:18:17.435463
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d12| At: 2019-12-09 20:20:25.305627
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d10| At: 2019-12-09 20:20:31.624686
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d10| At: 2019-12-09 20:21:29.967910
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d10| At: 2019-12-09 20:22:11.157457
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d12| At: 2019-12-09 20:23:02.479397
