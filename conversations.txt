@@ -79,3 +79,5 @@ Author = alex151821#0266| Channel = general| Said: When I saw the notification, 
 Author = Plains Walker#6334| Channel = general| Said: You used the force perhaps| At: 2019-12-17 19:56:18.393718
 Author = alex151821#0266| Channel = general| Said: Well, my intuition and reflexes have been slowly improving| At: 2019-12-17 20:50:45.844458
 Author = Plains Walker#6334| Channel = general| Said: https://youtu.be/0Ms49WIuL-M| At: 2019-12-17 20:51:27.188698
+Author = RonMan#6087| Channel = generalAuthor = Plains Walker#6334| Channel = general| Said: Doin alright there Ron looking a little miffed| At: 2019-12-17 21:07:53.050285
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d6| At: 2019-12-18 06:40:58.837230
