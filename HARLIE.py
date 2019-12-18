@@ -78,7 +78,6 @@ async def rollFunction(message_content, message):
       final.append(str(b[random.randint(0, 4)]))
     """
 
-async def audio():
     
 keep_alive()
 token = os.environ.get('DISCORD_BOT_SECRET')
