@@ -7,7 +7,6 @@ import random
 
 client = discord.Client()
 
-
 @client.event
 async def on_ready():
   print("I'm in")
@@ -25,10 +24,7 @@ async def on_message(message):
         await sayFunction(message_content, message)
       elif message_content[1] == 'roll':
         await rollFunction(message_content, message)
-      
 
-        
-    
     file = open('conversations.txt', 'a')
     print(message.author)
     print(message.channel.name)
@@ -58,8 +54,7 @@ async def rollFunction(message_content, message):
       for j in range(0, 4):
         b.append(random.randint(0, a[2]))
       final.append(b[random.randint(0, 5)])
-      
-    
+    await message.channel.send("Final results for " + message_content[2] +": " + " ".join(final))
 
     """
     a = []
@@ -82,13 +77,9 @@ async def rollFunction(message_content, message):
         b.append(random.randint(0, int(a[2])))
       final.append(str(b[random.randint(0, 4)]))
     """
+
+async def audio():
     
-    await message.channel.send("Final results for " + message_content[2] +": " + " ".join(final))
-
-
-
-    
-
 keep_alive()
 token = os.environ.get('DISCORD_BOT_SECRET')
 client.run(token)
