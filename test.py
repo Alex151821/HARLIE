@@ -1,3 +1,2 @@
-a = "hello"
-for i in a:
-    print(i)
+import os
+print(os.getenv('DISCORD_BOT_SECRET'))
