@@ -20,9 +20,9 @@ async def on_message(message):
       await message.channel.send('You Got me')
       message_content = message.content.split(' ')
       print(message_content[2])
-      if message_content[1] == 'say':
+      if message_content[1].lower() == 'say':
         await sayFunction(message_content, message)
-      elif message_content[1] == 'roll':
+      elif message_content[1].lower() == 'roll':
         await rollFunction(message_content, message)
 
     file = open('conversations.txt', 'a')
@@ -46,7 +46,7 @@ async def sayFunction(message_content, message):
 @client.event
 async def rollFunction(message_content, message):
     
-  a = message_content[2].split("d")
+  a = message_content[2].lower().split("d")
   print (a)
   b = []
   final = []

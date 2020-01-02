@@ -65,7 +65,6 @@ Author = alex151821#0266| Channel = bots-arguments-debates| Said: hi| At: 2019-1
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: h| At: 2019-12-06 03:35:49.406838
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: h| At: 2019-12-06 03:35:53.679743
 Author = RonMan#6087| Channel = general| Said: https://youtu.be/ahZFCF--uRY| At: 2019-12-09 17:03:45.210375
-<<<<<<< HEAD
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d6| At: 2019-12-09 20:06:41.426868
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 2d8| At: 2019-12-09 20:07:02.112827
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 4d10| At: 2019-12-09 20:07:56.442424
@@ -78,7 +77,6 @@ Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d10| 
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d10| At: 2019-12-09 20:21:29.967910
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d10| At: 2019-12-09 20:22:11.157457
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d12| At: 2019-12-09 20:23:02.479397
-=======
 Author = TrainableEwe0#4876| Channel = general| Said: *ever| At: 2019-12-15 15:10:39.157518
 Author = RonMan#6087| Channel = general| Said: The heist of the ever?| At: 2019-12-15 15:10:59.788803
 Author = TrainableEwe0#4876| Channel = general| Said: exactly| At: 2019-12-15 15:11:11.663103
@@ -86,17 +84,141 @@ Author = RonMan#6087| Channel = general| Said: But anyway, yeah I think I found 
 Author = RonMan#6087| Channel = general| Said: Hey guys, what if we pitched in and got a gingerbread house kit, and decorated it at the teen center on thursday? Have it be a little holiday get together. Get Jack and Zach too.| At: 2019-12-15 18:12:23.865751
 Author = Plains Walker#6334| Channel = general| Said: Could do| At: 2019-12-15 18:12:56.190672
 Author = Plains Walker#6334| Channel = general| Said: https://youtu.be/U9t-slLl30E always and forever more a classic| At: 2019-12-17 18:10:14.646489
-Author = alex151821#0266| Channel = general| Said: How’d I know| At: 2019-12-17 19:49:53.529273
+Author = alex151821#0266| Channel = general| Said: Howï¿½d I know| At: 2019-12-17 19:49:53.529273
 Author = TrainableEwe0#4876| Channel = general| Said: I got a new phone today, my new number is 505 500 5426| At: 2019-12-17 19:53:52.998322
 Author = Plains Walker#6334| Channel = general| Said: How did you know what Dennis| At: 2019-12-17 19:54:09.044823
-Author = alex151821#0266| Channel = general| Said: When I saw the notification, it just gave be the link, but I had a feeling that’s what it was| At: 2019-12-17 19:56:01.017219
+Author = alex151821#0266| Channel = general| Said: When I saw the notification, it just gave be the link, but I had a feeling thatï¿½s what it was| At: 2019-12-17 19:56:01.017219
 Author = Plains Walker#6334| Channel = general| Said: You used the force perhaps| At: 2019-12-17 19:56:18.393718
 Author = alex151821#0266| Channel = general| Said: Well, my intuition and reflexes have been slowly improving| At: 2019-12-17 20:50:45.844458
 Author = Plains Walker#6334| Channel = general| Said: https://youtu.be/0Ms49WIuL-M| At: 2019-12-17 20:51:27.188698
 Author = RonMan#6087| Channel = generalAuthor = Plains Walker#6334| Channel = general| Said: Doin alright there Ron looking a little miffed| At: 2019-12-17 21:07:53.050285
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d6| At: 2019-12-18 06:40:58.837230
->>>>>>> 36ae87b2968d1ab39b0876b5d366b93b457424df
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d6| At: 2019-12-18 12:12:15.881756
 Author = TrainableEwe0#4876| Channel = general| Said: So| At: 2019-12-19 07:45:00.761306
-Author = TrainableEwe0#4876| Channel = general| Said: I’ve got track practice today| At: 2019-12-19 07:45:08.201708
+Author = TrainableEwe0#4876| Channel = general| Said: Iï¿½ve got track practice today| At: 2019-12-19 07:45:08.201708
 Author = TrainableEwe0#4876| Channel = general| Said: Which goes from 3:30 to around 4:30| At: 2019-12-19 07:45:18.054728
+Author = RonMan#6087| Channel = general| Said: Uh we were thinking of changing it to friday| At: 2019-12-19 15:10:06.050345
+Author = Superamazatron#1662| Channel = general| Said: Oh, ok| At: 2019-12-19 15:10:50.882228
+Author = RonMan#6087| Channel = general| Said: does that work for you dennis? sean?| At: 2019-12-19 16:09:35.167179
+Author = TrainableEwe0#4876| Channel = general| Said: Yeah Iï¿½m down| At: 2019-12-19 17:30:21.980547
+Author = TrainableEwe0#4876| Channel = general| Said: Tomorrow after school?| At: 2019-12-19 17:30:27.412931
+Author = TrainableEwe0#4876| Channel = general| Said: <@297887225713131522> <@386276107428560907> <@387812180315340800> <@386312885271265280> the time of gingerbread reckoning draws near| At: 2019-12-19 18:00:05.061370
+Author = Plains Walker#6334| Channel = general| Said: Cool I'm sick with the flu| At: 2019-12-19 18:00:42.503042
+Author = RonMan#6087| Channel = general| Said: oh wow| At: 2019-12-19 18:01:00.774394
+Author = RonMan#6087| Channel = general| Said: ok epic| At: 2019-12-19 18:01:02.175424
+Author = TrainableEwe0#4876| Channel = general| Said: Nice| At: 2019-12-19 18:01:08.205106
+Author = TrainableEwe0#4876| Channel = general| Said: Get better by tomorrow| At: 2019-12-19 18:01:13.451631
+Author = RonMan#6087| Channel = general| Said: let's do it| At: 2019-12-19 18:01:14.134632
+Author = RonMan#6087| Channel = general| Said: YEAH FUCKING STOP BEING SICK LOSER| At: 2019-12-19 18:01:22.122932
+Author = TrainableEwe0#4876| Channel = general| Said: HELL YEAH| At: 2019-12-19 18:01:34.149614
+Author = RonMan#6087| Channel = general| Said: DREW| At: 2019-12-19 18:09:29.526960
+Author = RonMan#6087| Channel = general| Said: COOKIE HOUSE AT TEEN CENTER?| At: 2019-12-19 18:09:37.944332
+Author = alex151821#0266| Channel = general| Said: I donï¿½t know, not feeling great. Iï¿½ll see tomorrow.| At: 2019-12-19 18:10:08.040568
+Author = TrainableEwe0#4876| Channel = general| Said: COOKIE HOUSE AT TEEN CENTER| At: 2019-12-19 19:45:55.156323
+Author = TrainableEwe0#4876| Channel = general| Said: Wait| At: 2019-12-19 19:46:02.199773
+Author = TrainableEwe0#4876| Channel = general| Said: Maybe teen center isnï¿½t a great idea since everyoneï¿½ll try to take some| At: 2019-12-19 19:46:34.369114
+Author = RonMan#6087| Channel = general| Said: Well, where else?| At: 2019-12-19 20:17:05.247098
+Author = RonMan#6087| Channel = general| Said: No Seth. That's not how things work. You refuse to improve because you're a childish little bitch. When people tell people they're doing something wrong, normal functioning human beings take note and make the change. If you're doing anything else than you're not a productive member of society and need to be put down. Waste of food, resources and space.| At: 2019-12-21 16:45:43.262842
+Author = Plains Walker#6334| Channel = general| Said: Yes failure is a good learning tool nagging and bullying are not. Not to say this is bullying, or Dennis isn't anyway| At: 2019-12-21 16:48:30.753492
+Author = RonMan#6087| Channel = general| Said: The "I'm not gonna improve because you're being annoying about it." is petty, childish and isn't gonna get you very far once you have to get a job. Grow up, use punctuation.| At: 2019-12-21 16:49:32.829652
+Author = Plains Walker#6334| Channel = general| Said: That is like the farthest from what I meant| At: 2019-12-21 16:50:22.786727
+Author = RonMan#6087| Channel = general| Said: No, I don't think it is. Now shut up and learn from this instead of continuously expressing your distaste with being criticized for your idiotic mistakes.| At: 2019-12-21 16:51:53.031057
+Author = Plains Walker#6334| Channel = general| Said: This isn't some child being rebelious this is meant to be a continuous stream of negativity and no positive anything can make a person become apathetic and not want to improve or even try| At: 2019-12-21 16:52:58.642796
+Author = Plains Walker#6334| Channel = general| Said: In this particular scenario it's not  accurate but I was more or less arguing the concept| At: 2019-12-21 16:54:09.875112
+Author = Plains Walker#6334| Channel = general| Said: Also I feel that you are hardly the person to talk about changing and growing up considering the amount of times you and Sean and myself but yours and Sean's always seem more bitter. Half the time it seemed you'd be annoying and then Sean would get fed up with that and you would never apologize and just see yourself as infalable in that particular instance.| At: 2019-12-21 16:58:11.216015
+Author = RonMan#6087| Channel = general| Said: Ok boomer| At: 2019-12-21 17:48:24.540119
+Author = TrainableEwe0#4876| Channel = general| Said: seems a bit excessive to call someone a childish little bitch because they're bad at punctuation| At: 2019-12-21 17:57:04.949478
+Author = alex151821#0266| Channel = general| Said: Heï¿½s not bad, thatï¿½s the point| At: 2019-12-21 17:57:32.242971
+Author = Plains Walker#6334| Channel = general| Said: I'm not good| At: 2019-12-21 17:57:47.709272
+Author = TrainableEwe0#4876| Channel = general| Said: dennis are you down to play something tonight?| At: 2019-12-21 17:59:26.904296
+Author = alex151821#0266| Channel = general| Said: Maybe| At: 2019-12-21 17:59:35.595155
+Author = TrainableEwe0#4876| Channel = general| Said: cool| At: 2019-12-21 18:00:08.074390
+Author = RonMan#6087| Channel = general| Said: *lonly*| At: 2019-12-21 18:44:04.905374
+Author = RonMan#6087| Channel = general| Said: hey if you guys wanna play tf2 let me know| At: 2019-12-21 18:44:49.533721
+Author = TrainableEwe0#4876| Channel = general| Said: i dont play tf2| At: 2019-12-21 18:45:14.206009
+Author = TrainableEwe0#4876| Channel = general| Said: idk how it works and I'm too lazy to find out on my own| At: 2019-12-21 18:45:25.425270
+Author = RonMan#6087| Channel = general| Said: shoot gun at bad guy| At: 2019-12-21 19:02:40.689332
+Author = alex151821#0266| Channel = general| Said: Itï¿½s basically csgo, but cartoony and with somewhat better shooting mechanics| At: 2019-12-21 19:10:57.824595
+Author = RonMan#6087| Channel = general| Said: Yeah that and crazy weapon stats not to mention drastic class differences. It's the best multiplayer shooter ever made! So you should download it right fuckin' now.| At: 2019-12-21 19:15:14.889770
+Author = RonMan#6087| Channel = general| Said: Hey Sean. what was that one game you played a lot? Climbing atop it with Benjamin Fuckfase?| At: 2019-12-21 23:41:11.069136
+Author = Superamazatron#1662| Channel = general| Said: Getting over it with bennet foddy| At: 2019-12-21 23:41:48.338194
+Author = RonMan#6087| Channel = general| Said: No I don't think that's it.| At: 2019-12-21 23:42:14.987947
+Author = Superamazatron#1662| Channel = general| Said: Well I dont know. All I know is that I hate it and it made me yell louder than any time in my entire life| At: 2019-12-21 23:43:09.010817
+Author = RonMan#6087| Channel = general| Said: Something I just noticed, Getting Over It with Bennett Foddy sends the same message as Celeste, but it a both more abstract, and more literal straightforward way at the same time.| At: 2019-12-22 00:07:10.494503
+Author = TrainableEwe0#4876| Channel = general| Said: Cool| At: 2019-12-22 10:45:13.689085
+Author = RonMan#6087| Channel = general| Said: Climbing atop it with Benjamin fuckface.| At: 2019-12-22 13:21:18.612417
+Author = Plains Walker#6334| Channel = general| Said: Here's and odd question for y'all. Would you be willing to accept a downgrade of visual quality in video games say like going back to Xbox 360 kinda look, if we could get more games with amazing and moving stories?| At: 2019-12-22 21:27:54.129296
+Author = Plains Walker#6334| Channel = general| Said: Rather than the system that seems to be more prevelent most often tripple A studios where they look great but the stories are either non-existent or hardly worth it| At: 2019-12-22 21:29:28.529048
+Author = Plains Walker#6334| Channel = general| Said: The same applies to movies as well| At: 2019-12-22 21:30:25.955630
+Author = Plains Walker#6334| Channel = general| Said: The question I mean| At: 2019-12-22 21:30:35.267151
+Author = RonMan#6087| Channel = general| Said: Egg| At: 2019-12-22 21:51:04.635598
+Author = Plains Walker#6334| Channel = general| Said: On a dominos plate| At: 2019-12-22 21:51:41.679939
+Author = Plains Walker#6334| Channel = general| Said: You have committed heresey prepare to be smighted| At: 2019-12-22 21:52:23.427856
+Author = RonMan#6087| Channel = general| Said: SETH| At: 2019-12-22 23:48:24.036590
+Author = RonMan#6087| Channel = general| Said: they have a fucking build a bear style "build a droid" thing at Galaxy's edge| At: 2019-12-22 23:48:52.501014
+Author = RonMan#6087| Channel = general| Said: I want one| At: 2019-12-22 23:48:57.052118
+Author = Plains Walker#6334| Channel = general| Said: Yeah their pretty cool. You can get all kinds of colors and accessories and you can get custom chips for certain personalities and other cool stuff like that. It's expensive though. Much like the rest of Galaxy's edge| At: 2019-12-23 09:42:25.336711
+Author = Plains Walker#6334| Channel = general| Said: Course it's also hard to say whether Galaxy's edge is gonna stick around. I heard that after opening week for weeks after it was quiet as a grave| At: 2019-12-23 09:44:22.709306
+Author = Plains Walker#6334| Channel = general| Said: Though me personally I would go make me a lightsaber| At: 2019-12-23 09:45:01.286169
+Author = RonMan#6087| Channel = general| Said: Sad| At: 2019-12-23 12:00:41.400770
+Author = RonMan#6087| Channel = general| Said: The one and only time I went to Disney land was before they owned star wars. As a result the star wars stuff that was there was comparably pretty lame.| At: 2019-12-23 12:02:16.706462
+Author = Plains Walker#6334| Channel = general| Said: Yep| At: 2019-12-23 13:08:26.788433
+Author = RonMan#6087| Channel = general| Said: Time to watch the new star wars movie I've heard so many good things about.| At: 2019-12-24 15:17:07.490384
+Author = TrainableEwe0#4876| Channel = general| Said: tell me how it goes| At: 2019-12-24 15:42:07.020871
+Author = RonMan#6087| Channel = general| Said: It was actually ok. I'm sure Seth will hate it as he hates everything.| At: 2019-12-24 18:23:36.628234
+Author = Plains Walker#6334| Channel = general| Said: Damn right| At: 2019-12-24 18:24:21.562015
+Author = Plains Walker#6334| Channel = general| Said: I watched a full breakdown of the movie and just the explanation of the plot makes me very mad| At: 2019-12-24 18:24:50.522390
+Author = RonMan#6087| Channel = general| Said: still better than solo| At: 2019-12-24 19:16:05.269122
+Author = Superamazatron#1662| Channel = general| Said: Solo was good. The last jedi was just bad enough to carry the hatred over| At: 2019-12-24 19:18:15.899185
+Author = RonMan#6087| Channel = general| Said: No Solo really wasn't.| At: 2019-12-24 19:20:49.957382
+Author = RonMan#6087| Channel = general| Said: Solo is absolutely the worst, out of all the star wars films that's the only one I'd never want to watch again.| At: 2019-12-24 19:21:23.606375
+Author = Superamazatron#1662| Channel = general| Said: Really. Then I think we differ. Phantom menace and attack of the clones are both worse and equally un important.| At: 2019-12-24 19:22:44.643255
+Author = RonMan#6087| Channel = general| Said: Eh| At: 2019-12-24 19:22:58.319980
+Author = RonMan#6087| Channel = general| Said: I can't really argue with that| At: 2019-12-24 19:23:06.338276
+Author = RonMan#6087| Channel = general| Said: but see| At: 2019-12-24 19:23:08.419384
+Author = RonMan#6087| Channel = general| Said: I can see myself grabbing out the phantom menace and attack of the clones dvd and putting them into my ps4 to watch| At: 2019-12-24 19:23:43.991416
+Author = RonMan#6087| Channel = general| Said: Solo was just so, ew. It wasn| At: 2019-12-24 19:24:03.570882
+Author = RonMan#6087| Channel = general| Said: it wasn't an enjoyable experience tbh, like there were some good moments but| At: 2019-12-24 19:24:33.430096
+Author = RonMan#6087| Channel = general| Said: It was just gross| At: 2019-12-24 19:24:43.663745
+Author = RonMan#6087| Channel = general| Said: I don't really hate the prequels. I agree with all criticisms they get, but I still like them ok enough. I just think all the babies that want to strike the sequels from canon should just shut up. These are the movies we got, they aren't gonna start over. You can cry about it but it's not gonna do anything. Star Wars shouldn't have gotten these sequels anyway.| At: 2019-12-24 19:27:49.980688
+Author = RonMan#6087| Channel = general| Said: but anyway| At: 2019-12-24 19:28:04.655851
+Author = RonMan#6087| Channel = general| Said: yeah I really didn't care for solo| At: 2019-12-24 19:28:14.124315
+Author = RonMan#6087| Channel = general| Said: it started of strong tho| At: 2019-12-24 19:28:21.895367
+Author = RonMan#6087| Channel = general| Said: good actors| At: 2019-12-24 19:28:26.541506
+Author = RonMan#6087| Channel = general| Said: good music| At: 2019-12-24 19:28:31.181836
+Author = RonMan#6087| Channel = general| Said: but eh| At: 2019-12-24 19:28:33.993883
+Author = Superamazatron#1662| Channel = general| Said: I can feel where your coming from. But when I try to watch some of the worse, star wars movies I just get so bored, like I can feel the minutes ticking by kind of bordem| At: 2019-12-24 19:30:51.755598
+Author = RonMan#6087| Channel = general| Said: oof| At: 2019-12-24 19:31:13.776642
+Author = RonMan#6087| Channel = general| Said: I just want more star wars story movies. Rouge one was great. I want an obi wan movie please| At: 2019-12-24 19:31:57.075240
+Author = Superamazatron#1662| Channel = general| Said: I agree| At: 2019-12-24 19:38:22.911364
+Author = Plains Walker#6334| Channel = general| Said: I don't I'm down for a boba Fett movie but I really don't think anything obi wan did during exile should ever be worth a movie.| At: 2019-12-24 19:46:36.550268
+Author = Plains Walker#6334| Channel = general| Said: But I have been of the opinion from the very beginning that Disney should have stuck with books comics TV shows and spin offs. You know the stuff everyone else was doing before they took the reins . Cause if you make a sequel trilogy it has to make return of the Jedi irrelevant and that is a big no-no. That is the one thing that I believe must always remain constant is that return of the Jedi was the mostly happy ending to the Galaxy and to screw with that is to screw with star wars and you don't do that| At: 2019-12-24 19:49:30.473778
+Author = alex151821#0266| Channel = general| Said: Merry Christmas, yï¿½all| At: 2019-12-25 07:53:50.313884
+Author = Plains Walker#6334| Channel = general| Said: Merry Christmas infidels| At: 2019-12-25 07:54:12.519668
+Author = Superamazatron#1662| Channel = general| Said: Merry Christmas| At: 2019-12-25 08:57:25.510109
+Author = Superamazatron#1662| Channel = general| Said: And all that jazz| At: 2019-12-25 08:58:50.644161
+Author = alex151821#0266| Channel = general| Said: I appreciate this| At: 2019-12-26 10:45:39.162419
+Author = RonMan#6087| Channel = general| Said: Good Jack, good...| At: 2019-12-27 01:17:20.663656
+Author = Superamazatron#1662| Channel = general| Said: Yeah. I got hollow knight. It's a good recommendation, I really like it so far| At: 2019-12-27 02:50:41.008192
+Author = TrainableEwe0#4876| Channel = general| Said: Nice| At: 2019-12-27 10:35:19.315098
+Author = RonMan#6087| Channel = general| Said: it's pretty good| At: 2019-12-27 10:37:40.885129
+Author = alex151821#0266| Channel = general| Said: Whoo, crossed 200 hours in warframe| At: 2019-12-27 11:27:08.204043
+Author = RonMan#6087| Channel = general| Said: | At: 2019-12-27 12:25:46.374886
+Author = RonMan#6087| Channel = general| Said: | At: 2019-12-27 12:25:49.128990
+Author = alex151821#0266| Channel = general| Said: Since when have you been playing tf2?| At: 2019-12-27 12:47:55.268565
+Author = RonMan#6087| Channel = general| Said: https://media.discordapp.net/attachments/640059216358539265/643290916643405824/image0-18.gif| At: 2019-12-27 12:50:14.597717
+Author = RonMan#6087| Channel = general| Said: https://www.youtube.com/watch?v=lA6sh4vawaA| At: 2019-12-27 12:50:32.535437
+Author = alex151821#0266| Channel = general| Said: Like, what date?| At: 2019-12-27 14:18:46.664261
+Author = RonMan#6087| Channel = general| Said: https://cdn.discordapp.com/attachments/142480770265513984/660174120268595231/Uncle_Dane_-_Toss_Your_Monitor.mp4| At: 2019-12-27 15:01:18.281338
+Author = RonMan#6087| Channel = general| Said: Hey Seab, what are you up to?| At: 2019-12-30 15:50:56.647921
+Author = TrainableEwe0#4876| Channel = general| Said: In Arizona with some random adult Iï¿½ve never met before| At: 2019-12-30 17:47:55.142963
+Author = Superamazatron#1662| Channel = general| Said: Neat| At: 2019-12-30 17:48:28.107984
+Author = RonMan#6087| Channel = general| Said: Sounds like HELL| At: 2019-12-30 20:42:33.642377
+Author = RonMan#6087| Channel = general| Said: Literally, because Arizona| At: 2019-12-30 20:42:41.485318
+Author = TrainableEwe0#4876| Channel = general| Said: ikr| At: 2019-12-30 21:28:14.634898
+Author = TrainableEwe0#4876| Channel = general| Said: Not sure when Iï¿½ll be back but it should be at least by Wednesday| At: 2019-12-30 21:30:10.243830
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H Roll 1d6| At: 2019-12-31 21:40:00.235239
+Author = TrainableEwe0#4876| Channel = general| Said: Happy birthday| At: 2020-01-01 00:57:05.542606
+Author = TrainableEwe0#4876| Channel = general| Said: I canï¿½t believe America is 2,020 years old now| At: 2020-01-01 00:57:34.651147
+Author = Superamazatron#1662| Channel = generalAuthor = RonMan#6087| Channel = general| Said: Sean I hate you| At: 2020-01-01 03:15:35.714712
+Author = RonMan#6087| Channel = general| Said: I actually thought you were serious for a fraction of a second| At: 2020-01-01 03:16:03.671110
