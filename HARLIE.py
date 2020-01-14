@@ -87,7 +87,6 @@ async def leave(ctx):
 @client.command()
 async def play(ctx, url):
   server = ctx.message.server
-  player = await 
 
   
 
