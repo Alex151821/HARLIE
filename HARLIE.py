@@ -1,11 +1,13 @@
 import discord
+from discord.ext import commands
 import os
 from keep_alive import keep_alive
 from datetime import datetime as dt
 import time
 import random
+import youtube_dl
 
-client = discord.Client()
+client = commands.Bot(command_prefix = ':')
 
 @client.event
 async def on_ready():
@@ -15,38 +17,29 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-  if message.author != client.user:
-    if message.content.startswith(":H"):
-      await message.channel.send('You Got me')
-      message_content = message.content.split(' ')
-      print(message_content[2])
-      if message_content[1].lower() == 'say':
-        await sayFunction(message_content, message)
-      elif message_content[1].lower() == 'roll':
-        await rollFunction(message_content, message)
-
-    file = open('conversations.txt', 'a')
-    print(message.author)
-    print(message.channel.name)
-    print(message.content)
-    file.write('Author = '+ str(message.author))
-    file.write('| Channel = '+ str(message.channel.name))
-    file.write('| Said: ' + str(message.content))
-    file.write('| At: ' + str(dt.now()) + '\n')
-    file.close()
-    
-
-@client.event
-async def sayFunction(message_content, message):
   
-    message_content.remove(':H')
-    message_content.remove('say')
-    await message.channel.send(" ".join(message_content))
+  print()
+  file = open('conversations.txt', 'a')
+  print(message.author)
+  print(message.channel.name)
+  print(message.content)
+  file.write('Author = '+ str(message.author))
+  file.write('| Channel = '+ str(message.channel.name))
+  file.write('| Said: ' + str(message.content))
+  file.write('| At: ' + str(dt.now()) + '\n')
+  file.close()
+  await client.process_commands(message)
 
-@client.event
-async def rollFunction(message_content, message):
-    
-  a = message_content[2].lower().split("d")
+@client.command()
+async def say(ctx):
+  a = ctx.message.content.split(" ")
+  a.remove(':say')
+  await ctx.send(" ".join(a))
+
+@client.command()
+async def roll(ctx):
+  message_content = ctx.message.content.split(' ')
+  a = message_content[1].lower().split("d")
   print (a)
   b = []
   final = []
@@ -57,8 +50,8 @@ async def rollFunction(message_content, message):
       b.append(random.randint(0, a[1]))
       print(b)
     final.append(b[random.randint(0, 5)])
-    print (message_content[2])
-  await message.channel.send("Final results for " + str(message_content[2]) +": " + " ".join(map(str, final)))
+    print (message_content[1])
+  await ctx.send("Final results for " + str(message_content[1]) +": " + " ".join(map(str, final)))
 
   """
     a = []
@@ -82,7 +75,23 @@ async def rollFunction(message_content, message):
       final.append(str(b[random.randint(0, 4)]))
     """
 
-    
+@client.command()
+async def join(ctx):
+  channel = ctx.message.author.voice.channel
+  await channel.connect()
+
+@client.command()
+async def leave(ctx):
+  await ctx.voice_client.disconnect()
+
+@client.command()
+async def play(ctx, url):
+  server = ctx.message.server
+  player = await 
+
+  
+
+
 keep_alive()
 token = os.environ.get('DISCORD_BOT_SECRET')
 client.run(token)

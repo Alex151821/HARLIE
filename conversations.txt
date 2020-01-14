@@ -222,3 +222,62 @@ Author = TrainableEwe0#4876| Channel = general| Said: Happy birthday| At: 2020-0
 Author = TrainableEwe0#4876| Channel = general| Said: I canï¿½t believe America is 2,020 years old now| At: 2020-01-01 00:57:34.651147
 Author = Superamazatron#1662| Channel = generalAuthor = RonMan#6087| Channel = general| Said: Sean I hate you| At: 2020-01-01 03:15:35.714712
 Author = RonMan#6087| Channel = general| Said: I actually thought you were serious for a fraction of a second| At: 2020-01-01 03:16:03.671110
+Author = RonMan#6087| Channel = general| Said: https://clips.twitch.tv/FrailOutstandingHummingbirdDancingBaby| At: 2020-01-04 19:37:44.328208
+Author = Plains Walker#6334| Channel = general| Said: https://youtu.be/3Xl0Qr0uXuY| At: 2020-01-05 06:02:30.181095
+Author = Plains Walker#6334| Channel = general| Said: | At: 2020-01-05 18:09:13.882058
+Author = TrainableEwe0#4876| Channel = general| Said: hm| At: 2020-01-05 18:28:59.451253
+Author = alex151821#0266| Channel = general| Said: Pretty sick| At: 2020-01-05 18:29:19.715579
+Author = Plains Walker#6334| Channel = general| Said: I just thought it was interesting and I didn't know they made it| At: 2020-01-05 18:29:20.284576
+Author = Plains Walker#6334| Channel = general| Said: That's goodwill for you you never know what you'll find| At: 2020-01-05 18:29:58.977083
+Author = RonMan#6087| Channel = general| Said: wowie PLAYSTATION TWOOO| At: 2020-01-05 19:11:23.043874
+Author = Plains Walker#6334| Channel = general| Said: Yeah kinda nostalgic| At: 2020-01-05 19:11:45.760616
+Author = RonMan#6087| Channel = general| Said: https://www.youtube.com/watch?v=ytPQUtBHUb4| At: 2020-01-07 20:38:25.591862
+Author = RonMan#6087| Channel = general| Said: https://www.twitch.tv/steviesbrain| At: 2020-01-07 23:00:48.959673
+Author = RonMan#6087| Channel = general| Said: I can now legally FUCK, happy birthday to me.| At: 2020-01-12 01:00:43.110747
+Author = alex151821#0266| Channel = general| Said: happy birthday| At: 2020-01-12 01:01:00.542157
+Author = RonMan#6087| Channel = general| Said: thanks dude| At: 2020-01-12 01:01:11.378969
+Author = TrainableEwe0#4876| Channel = general| Said: happy birthday you deviant| At: 2020-01-12 01:07:30.090646
+Author = RonMan#6087| Channel = general| Said: I actually can't decide whether or not to be offended by the word deviant. Or well, rather whether or not I *should* be offended or whether or not that was partially intended. Because fuck you I'll deviate if I want. Anyway, thanks.| At: 2020-01-12 02:00:13.931772
+Author = TrainableEwe0#4876| Channel = generalAuthor = Superamazatron#1662| Channel = general| Said: Happy birthday ron, hope you had/are having a good one| At: 2020-01-12 16:09:54.781851
+Author = TrainableEwe0#4876| Channel = general| Said: How’s the birthday going man?| At: 2020-01-12 16:31:51.187720
+Author = RonMan#6087| Channel = general| Said: Pretty... lame but uh.... I've accumulated 400 dollars combining christmas money, birthday money and selling old game consoles money. I intend to spend it on a VR headset. So overall not too bad.| At: 2020-01-12 20:32:25.912834
+Author = Plains Walker#6334| Channel = general| Said: What old game consoles| At: 2020-01-12 20:44:18.664787
+Author = TrainableEwe0#4876| Channel = general| Said: AYY| At: 2020-01-12 20:53:59.974660
+Author = TrainableEwe0#4876| Channel = general| Said: nice!| At: 2020-01-12 20:54:01.544589
+Author = TrainableEwe0#4876| Channel = general| Said: You'll have to tell us how that goes man, vr is the best| At: 2020-01-12 20:54:11.684730
+Author = Plains Walker#6334| Channel = general| Said: I don't know about that but it is a pretty cool experience| At: 2020-01-12 20:54:40.298922
+Author = Plains Walker#6334| Channel = general| Said: Nothing quite like playing beat saber till your body says the hell you think your doing and collapses| At: 2020-01-12 20:55:25.020627
+Author = RonMan#6087| Channel = general| Said: I won't be able to receive the headset until march because it's on back order from Christmas.| At: 2020-01-12 21:26:00.342765
+Author = Plains Walker#6334| Channel = general| Said: Such is the way of things. But no seriously what did you sell| At: 2020-01-12 21:26:38.004301
+Author = RonMan#6087| Channel = general| Said: none ya| At: 2020-01-12 23:13:13.231596
+Author = Plains Walker#6334| Channel = general| Said: Alright that's fair but still I would have liked to know. Could boght some stuff| At: 2020-01-13 05:47:24.282746
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: :say hi| At: 2020-01-13 17:21:37.021645
+Author = HARLIE#8372| Channel = general| Said: | At: 2020-01-13 17:26:50.941165
+Author = alex151821#0266| Channel = bot-test| Said: :say| At: 2020-01-13 17:27:06.809593
+Author = alex151821#0266| Channel = bot-test| Said: :say| At: 2020-01-13 17:27:28.717955
+Author = alex151821#0266| Channel = bot-test| Said: :say hii| At: 2020-01-13 17:27:32.622015
+Author = alex151821#0266| Channel = bot-test| Said: :say| At: 2020-01-13 17:28:40.895337
+Author = alex151821#0266| Channel = bot-test| Said: :say| At: 2020-01-13 17:35:00.313764
+Author = alex151821#0266| Channel = bot-test| Said: :say| At: 2020-01-13 17:35:14.874784
+Author = alex151821#0266| Channel = bot-test| Said: :say| At: 2020-01-13 17:35:38.009080
+Author = HARLIE#8372| Channel = bot-test| Said: ctx.message_content| At: 2020-01-13 17:35:38.115848
+Author = alex151821#0266| Channel = bot-test| Said: :say| At: 2020-01-13 17:35:50.803914
+Author = HARLIE#8372| Channel = bot-test| Said: ctx.message_content| At: 2020-01-13 17:35:50.914783
+Author = alex151821#0266| Channel = bot-test| Said: :say| At: 2020-01-13 17:35:57.609346
+Author = alex151821#0266| Channel = bot-test| Said: :say| At: 2020-01-13 17:36:20.777204
+Author = HARLIE#8372| Channel = bot-test| Said: :say| At: 2020-01-13 17:36:21.270887
+Author = alex151821#0266| Channel = bot-test| Said: :say hi there| At: 2020-01-13 17:36:59.576229
+Author = HARLIE#8372| Channel = bot-test| Said: :say hi there| At: 2020-01-13 17:36:59.671494
+Author = alex151821#0266| Channel = bot-test| Said: :say hi there| At: 2020-01-13 17:46:13.369412
+Author = alex151821#0266| Channel = bot-test| Said: :say hi tehere| At: 2020-01-13 17:47:09.196217
+Author = HARLIE#8372| Channel = bot-test| Said: hi tehere| At: 2020-01-13 17:47:09.310917
+Author = alex151821#0266| Channel = bot-test| Said: :roll 1d6| At: 2020-01-13 17:47:51.209615
+Author = alex151821#0266| Channel = bot-test| Said: :roll 1d6| At: 2020-01-13 17:48:18.062822
+Author = alex151821#0266| Channel = bot-test| Said: :roll 1d6| At: 2020-01-13 17:49:39.845852
+Author = alex151821#0266| Channel = bot-test| Said: : roll 1d6| At: 2020-01-13 17:50:31.318516
+Author = alex151821#0266| Channel = bot-test| Said: :roll 1d6| At: 2020-01-13 17:50:37.718835
+Author = alex151821#0266| Channel = bot-test| Said: :roll 1d6| At: 2020-01-13 17:51:20.700032
+Author = alex151821#0266| Channel = bot-test| Said: :roll 1d6| At: 2020-01-13 17:51:42.940854
+Author = HARLIE#8372| Channel = bot-test| Said: Final results for 1d6: 3| At: 2020-01-13 17:51:43.052539
+Author = alex151821#0266| Channel = bot-test| Said: :join| At: 2020-01-13 18:04:15.540199
+Author = alex151821#0266| Channel = bot-test| Said: :join| At: 2020-01-13 18:06:06.155860
