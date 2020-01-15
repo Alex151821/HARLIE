@@ -45,18 +45,22 @@ async def sayFunction(message_content, message):
 
 @client.event
 async def rollFunction(message_content, message):
-    a = message_content.split("d")
-    b = []
-    final = []
-    a[0] = int(a[0])
-    a[2] = int(a[2])
-    for i in range(0, a[0]):
-      for j in range(0, 4):
-        b.append(random.randint(0, a[2]))
-      final.append(b[random.randint(0, 5)])
-    await message.channel.send("Final results for " + message_content[2] +": " + " ".join(final))
+    
+  a = message_content[2].split("d")
+  print (a)
+  b = []
+  final = []
+  a[0] = int(a[0])
+  a[1] = int(a[1])
+  for i in range(0, a[0]):
+    for j in range(0, 5):
+      b.append(random.randint(0, a[1]))
+      print(b)
+    final.append(b[random.randint(0, 5)])
+    print (message_content[2])
+  await message.channel.send("Final results for " + str(message_content[2]) +": " + " ".join(map(str, final)))
 
-    """
+  """
     a = []
     b = []
     final = []

@@ -96,3 +96,7 @@ Author = Plains Walker#6334| Channel = general| Said: https://youtu.be/0Ms49WIuL
 Author = RonMan#6087| Channel = generalAuthor = Plains Walker#6334| Channel = general| Said: Doin alright there Ron looking a little miffed| At: 2019-12-17 21:07:53.050285
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d6| At: 2019-12-18 06:40:58.837230
 >>>>>>> 36ae87b2968d1ab39b0876b5d366b93b457424df
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: :H roll 1d6| At: 2019-12-18 12:12:15.881756
+Author = TrainableEwe0#4876| Channel = general| Said: So| At: 2019-12-19 07:45:00.761306
+Author = TrainableEwe0#4876| Channel = general| Said: I’ve got track practice today| At: 2019-12-19 07:45:08.201708
+Author = TrainableEwe0#4876| Channel = general| Said: Which goes from 3:30 to around 4:30| At: 2019-12-19 07:45:18.054728
