@@ -9,8 +9,3 @@ print(b[:500])
 c = fft(b)
 d = len(c)/2
 #print(c[:100])
-
-plot = plt.specgram(b, 320)
-plot.plot
-plt.show()
-
