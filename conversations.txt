@@ -281,3 +281,9 @@ Author = alex151821#0266| Channel = bot-test| Said: :roll 1d6| At: 2020-01-13 17
 Author = HARLIE#8372| Channel = bot-test| Said: Final results for 1d6: 3| At: 2020-01-13 17:51:43.052539
 Author = alex151821#0266| Channel = bot-test| Said: :join| At: 2020-01-13 18:04:15.540199
 Author = alex151821#0266| Channel = bot-test| Said: :join| At: 2020-01-13 18:06:06.155860
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: shut up| At: 2020-01-14 19:26:31.923872
+Author = alex151821#0266| Channel = bot-test| Said: :say hi| At: 2020-01-14 19:26:47.611755
+Author = HARLIE#8372| Channel = bot-test| Said: hi| At: 2020-01-14 19:26:47.823695
+Author = Plains Walker#6334| Channel = bots-arguments-debates| Said: Harsh| At: 2020-01-14 19:28:39.367317
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: I'm trying to figure out how to make it into a music bot now| At: 2020-01-14 19:31:00.377307
+Author = Plains Walker#6334| Channel = bots-arguments-debates| Said: Cool| At: 2020-01-14 19:37:11.805816
