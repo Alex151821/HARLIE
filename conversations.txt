@@ -287,3 +287,230 @@ Author = HARLIE#8372| Channel = bot-test| Said: hi| At: 2020-01-14 19:26:47.8236
 Author = Plains Walker#6334| Channel = bots-arguments-debates| Said: Harsh| At: 2020-01-14 19:28:39.367317
 Author = alex151821#0266| Channel = bots-arguments-debates| Said: I'm trying to figure out how to make it into a music bot now| At: 2020-01-14 19:31:00.377307
 Author = Plains Walker#6334| Channel = bots-arguments-debates| Said: Cool| At: 2020-01-14 19:37:11.805816
+Author = Ayana#8911| Channel = general| Said: | At: 2020-01-18 15:56:20.418745
+Author = alex151821#0266| Channel = bot-test| Said: =music join| At: 2020-01-18 15:56:42.224839
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 15:56:42.851795
+Author = alex151821#0266| Channel = bot-test| Said: =music play https://www.youtube.com/watch?v=ytWz0qVvBZ0| At: 2020-01-18 15:57:11.293054
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 15:57:12.185801
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 15:57:13.163860
+Author = Ayana#8911| Channel = general| Said: | At: 2020-01-18 22:00:43.868835
+Author = alex151821#0266| Channel = bot-test| Said: =music play the hero| At: 2020-01-18 22:04:51.459345
+Author = Ayana#8911| Channel = bot-testAuthor = alex151821#0266| Channel = bot-test| Said: =m p 2| At: 2020-01-18 22:05:03.585238
+Author = Ayana#8911| Channel = bot-test| Said: Question cancelled.| At: 2020-01-18 22:05:04.379669
+Author = Ayana#8911| Channel = bot-test| Said: Pick an option below to enqueue it.
+```prolog
+[Page 1/1]
+
+ 1 : H.E.R. - 2 (Audio)
+ 2 : Child's Play 2 (8/10) Movie CLIP - I'm Gonna Kill You! (1990) HD
+ 3 : Manchester City 2-2 Crystal Palace | 2 Minute Highlights
+ 4 : Laugh with My Talking Tom 2 - Crazy Fails (Cartoon Compilation)
+ 5 : Crusader Kings 2 IS A PERFECTLY BALANCED GAME WITH NO EXPLOITS - RETINUE ONLY CHALLENGE IS BROKEN
+ 6 : 30 Kill Solo Squad | Chapter 2 Fortnite
+ 7 : Into the Unknown! Frozen 2 Elsa Song (Cover)
+ 8 : Ways to Be Wicked (from Descendants 2) (Official Video)
+ 9 : Tinashe ft. SchoolBoy Q - 2 On (Official Audio)
+ c : Cancel
+```| At: 2020-01-18 22:05:04.491520
+Author = alex151821#0266| Channel = bot-test| Said: =m play the hero| At: 2020-01-18 22:05:29.369501
+Author = Ayana#8911| Channel = bot-test| Said: Question cancelled.| At: 2020-01-18 22:05:30.082894
+Author = Ayana#8911| Channel = bot-testAuthor = alex151821#0266| Channel = bot-test| Said: =m 2| At: 2020-01-18 22:05:37.940490
+Author = Ayana#8911| Channel = bot-test| Said: ```css
+[Music Help]
+
+=m (j)oin - Joins your current voice channel
+=m (p)lay [Song] - Plays and/or enqueues a song/playlist
+   [--voice <Channel>] - Specifies the voice channel to connect to
+   [--text <Channel>] - Specifies the text channel to bind to
+   [--region <Region>] - Forces a connection to the specified region
+
+=m (q)ueue [Song] - Shows queue or enqueues a song/playlist
+   [--next] - Enqueues a song/playlist as the next item
+   [--pos <Position>] - Enqueues a song/playlist to the specified position
+
+=m (v)olume - Adjust volume of playback
+
+=m nowplaying (np) - Shows the song that is being played
+
+=m purge (pg) - Removes all items from the queue
+=m (d)elete <Number|Search> - Deletes one or more items from the queue
+
+=m (s)kip - Skips/Removes the item in position 1 of the queue
+=m shuffle (sf) - Shuffles the queue
+=m (r)epeat <on|one|off> - Manages queue repeat
+
+=m providers (pv) - Shows a list of available providers
+
+=m (l)eave - Leaves the voice channel
+
+Examples:
+    =m p example song
+    =m p example song --next --text bot-commands
+    =m j --voice music --text commands
+    =m q example song --pos 10
+    =m sf
+    =m d example song
+    =m r one
+
+<> = required information, [] = optional information, | = or. Do not include <> [] or | in your command input.
+Please join the support server for any questions. (=support for link)```| At: 2020-01-18 22:05:38.018283
+Author = Ayana#8911| Channel = bot-test| Said: Question timed out.| At: 2020-01-18 22:06:00.148443
+Author = alex151821#0266| Channel = bot-test| Said: =m providers| At: 2020-01-18 22:06:33.531795
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 22:06:33.597914
+Author = alex151821#0266| Channel = bot-test| Said: =m join| At: 2020-01-18 22:07:18.255373
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 22:07:18.844991
+Author = alex151821#0266| Channel = bot-test| Said: =m p the hero| At: 2020-01-18 22:08:32.726011
+Author = Ayana#8911| Channel = bot-testAuthor = alex151821#0266| Channel = bot-test| Said: =m c 2| At: 2020-01-18 22:08:49.868666
+Author = Ayana#8911| Channel = bot-test| Said: OwO what's this?| At: 2020-01-18 22:08:49.954769
+Author = Ayana#8911| Channel = bot-test| Said: Question timed out.| At: 2020-01-18 22:09:03.461129
+Author = alex151821#0266| Channel = bot-test| Said: =m p the hero| At: 2020-01-18 22:09:21.649905
+Author = Ayana#8911| Channel = bot-testAuthor = alex151821#0266| Channel = bot-test| Said: =2| At: 2020-01-18 22:09:27.607511
+Author = Ayana#8911| Channel = bot-test| Said: Question timed out.| At: 2020-01-18 22:09:52.394977
+Author = alex151821#0266| Channel = bot-test| Said: =m p https://m.youtube.com/watch?v=QImBolnTVH8| At: 2020-01-18 22:10:12.942077
+Author = Ayana#8911| Channel = bot-test| Said: :no_entry_sign: Left channel due to inactivity. Help support Ayana and get some awesome perks with Ayana PRO. <https://ayana.io/pro>| At: 2020-01-18 22:10:13.733330
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 22:10:13.888566
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 22:10:15.414952
+Author = alex151821#0266| Channel = bot-test| Said: =music q https://m.youtube.com/watch?v=ytWz0qVvBZ0| At: 2020-01-18 22:11:24.238117
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 22:11:25.012258
+Author = alex151821#0266| Channel = bot-test| Said: =music skip| At: 2020-01-18 22:11:34.434996
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 22:11:34.641463
+Author = Ayana#8911| Channel = bot-test| Said: Thanks for listening to Ayana! As you just heard in the stream, click this link to install a game and keep Ayana free!: https://bgn.gg/omLEmx2IU| At: 2020-01-18 22:11:34.790088
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 22:12:03.846672
+Author = alex151821#0266| Channel = bot-test| Said: =music play https://m.youtube.com/watch?v=ytWz0qVvBZ0| At: 2020-01-18 22:12:30.537212
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 22:12:31.194251
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 22:12:32.679210
+Author = alex151821#0266| Channel = bot-test| Said: =music np| At: 2020-01-18 22:18:25.568264
+Author = Ayana#8911| Channel = bot-test| Said: Nothing is currently playing| At: 2020-01-18 22:18:25.631863
+Author = Ayana#8911| Channel = bot-test| Said: :no_entry_sign: Left channel due to inactivity. Help support Ayana and get some awesome perks with Ayana PRO. <https://ayana.io/pro>| At: 2020-01-18 22:20:13.760939
+Author = alex151821#0266| Channel = bot-test| Said: =music join| At: 2020-01-18 22:21:58.475828
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 22:21:59.156688
+Author = alex151821#0266| Channel = bot-test| Said: =music play diggy diggy hole| At: 2020-01-18 22:22:09.107157
+Author = Ayana#8911| Channel = bot-testAuthor = alex151821#0266| Channel = bot-test| Said: 1| At: 2020-01-18 22:22:14.732279
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 22:22:15.578851
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 22:22:16.420499
+Author = alex151821#0266| Channel = bot-test| Said: =music q arrow in the knee| At: 2020-01-18 22:23:41.008374
+Author = Ayana#8911| Channel = bot-testAuthor = alex151821#0266| Channel = bot-test| Said: 1| At: 2020-01-18 22:23:46.529511
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 22:23:47.315135
+Author = alex151821#0266| Channel = bot-test| Said: =music play| At: 2020-01-18 22:23:59.074140
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 22:24:00.550222
+Author = alex151821#0266| Channel = bot-test| Said: =m np| At: 2020-01-18 22:24:11.503598
+Author = Ayana#8911| Channel = bot-test| Said: Nothing is currently playing| At: 2020-01-18 22:24:11.570830
+Author = alex151821#0266| Channel = bot-test| Said: =m l| At: 2020-01-18 22:25:34.786842
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-18 22:25:34.934981
+Author = TrainableEwe0#4876| Channel = general| Said: Anyone wanna hang out tomorrow?| At: 2020-01-19 10:24:40.786610
+Author = Plains Walker#6334| Channel = general| Said: Yes ,yes yes, a thousand times yes| At: 2020-01-19 10:52:42.044860
+Author = Plains Walker#6334| Channel = general| Said: Whether or not I can I have no idea but I definitely want to try| At: 2020-01-19 10:53:00.085229
+Author = TrainableEwe0#4876| Channel = general| Said: Ok sweet| At: 2020-01-19 11:04:48.952588
+Author = TrainableEwe0#4876| Channel = general| Said: I’ll see if we can hang out at my house but if not maybe someone else’s house or the teen center| At: 2020-01-19 11:05:16.096612
+Author = Plains Walker#6334| Channel = general| Said: Alright dope| At: 2020-01-19 11:05:30.751684
+Author = Plains Walker#6334| Channel = general| Said: You got any information?| At: 2020-01-19 16:30:33.472515
+Author = TrainableEwe0#4876| Channel = general| Said: nope| At: 2020-01-19 16:34:07.337755
+Author = TrainableEwe0#4876| Channel = general| Said: I don't know who's coming yet| At: 2020-01-19 16:34:13.147695
+Author = TrainableEwe0#4876| Channel = general| Said: at the moment I think it's just you and Zach| At: 2020-01-19 16:34:23.932498
+Author = Plains Walker#6334| Channel = general| Said: Yeah Dennis said something about being in Albuquerque| At: 2020-01-19 16:34:56.426791
+Author = alex151821#0266| Channel = general| Said: I could probably be there| At: 2020-01-19 16:36:31.097561
+Author = Plains Walker#6334| Channel = general| Said: Oh nice| At: 2020-01-19 16:36:43.004068
+Author = Superamazatron#1662| Channel = general| Said: I could be there too| At: 2020-01-19 16:37:33.388351
+Author = Plains Walker#6334| Channel = general| Said: Now we just need time and place| At: 2020-01-19 16:37:45.610113
+Author = TrainableEwe0#4876| Channel = general| Said: nice| At: 2020-01-19 16:40:22.388516
+Author = Plains Walker#6334| Channel = general| Said: Now remember kids fireball solves everything https://youtu.be/gmAub3iRWaU| At: 2020-01-19 20:41:45.043689
+Author = RonMan#6087| Channel = general| Said: I'd be down to hang, I have to stay out of my house anyway for various reasons.| At: 2020-01-19 23:23:05.850996
+Author = RonMan#6087| Channel = general| Said: <@!272961391067922433> what's happening with all that?| At: 2020-01-20 00:08:40.664976
+Author = TrainableEwe0#4876| Channel = general| Said: plan is to meet at my place sometime tomorrow afternoon and hang out in the basement| At: 2020-01-20 00:09:10.716705
+Author = RonMan#6087| Channel = general| Said: Zach's in on it?| At: 2020-01-20 00:09:21.994718
+Author = TrainableEwe0#4876| Channel = general| Said: so if you're down it'll probably be me, you, zach, jack, and maybe dennis| At: 2020-01-20 00:09:30.770078
+Author = TrainableEwe0#4876| Channel = general| Said: zach suggested it| At: 2020-01-20 00:09:36.715227
+Author = RonMan#6087| Channel = general| Said: epic| At: 2020-01-20 00:09:36.810329
+Author = RonMan#6087| Channel = general| Said: aight, um I could bring the ps classic I got for christmas if anyone cares| At: 2020-01-20 00:09:59.859354
+Author = RonMan#6087| Channel = general| Said: it has two controllers and some multiplayer games| At: 2020-01-20 00:10:15.555197
+Author = TrainableEwe0#4876| Channel = general| Said: sure, if you want to| At: 2020-01-20 00:10:22.219129
+Author = RonMan#6087| Channel = general| Said: neato| At: 2020-01-20 00:12:36.954465
+Author = Plains Walker#6334| Channel = general| Said: Sounds good| At: 2020-01-20 07:45:11.105655
+Author = Superamazatron#1662| Channel = general| Said: So... what time would be good| At: 2020-01-20 09:01:55.623199
+Author = TrainableEwe0#4876| Channel = general| Said: Uh| At: 2020-01-20 10:01:14.505565
+Author = TrainableEwe0#4876| Channel = general| Said: 3:00?| At: 2020-01-20 10:01:33.798884
+Author = RonMan#6087| Channel = general| Said: oof| At: 2020-01-20 10:02:32.090369
+Author = RonMan#6087| Channel = general| Said: now would be good for me personally, I gotta get out of the house| At: 2020-01-20 10:02:55.778647
+Author = RonMan#6087| Channel = general| Said: idk what I'm gonna do for the next 5 hours tbh| At: 2020-01-20 10:04:40.893917
+Author = Plains Walker#6334| Channel = general| Said: Out of curiosity why are you needing to get out of the house| At: 2020-01-20 10:05:19.754832
+Author = RonMan#6087| Channel = general| Said: people are tearing up what's been left of my bathroom to finally make a new one| At: 2020-01-20 10:05:59.455223
+Author = Plains Walker#6334| Channel = general| Said: Ah| At: 2020-01-20 10:06:08.087160
+Author = RonMan#6087| Channel = general| Said: construction, loud| At: 2020-01-20 10:06:20.332850
+Author = RonMan#6087| Channel = general| Said: I'm also in people| At: 2020-01-20 10:06:25.418560
+Author = RonMan#6087| Channel = general| Said: 's way*| At: 2020-01-20 10:06:29.266211
+Author = Plains Walker#6334| Channel = general| Said: I imagine| At: 2020-01-20 10:06:33.457134
+Author = Plains Walker#6334| Channel = general| Said: Welp I suppose there is always the teen center| At: 2020-01-20 10:07:12.030586
+Author = RonMan#6087| Channel = general| Said: well they open at like 12:00 or something| At: 2020-01-20 10:10:00.327960
+Author = TrainableEwe0#4876| Channel = general| Said: We can do earlier I just wanna get lunch| At: 2020-01-20 10:15:04.175130
+Author = TrainableEwe0#4876| Channel = general| Said: How about 1:00?| At: 2020-01-20 10:15:11.807167
+Author = RonMan#6087| Channel = general| Said: gotcha| At: 2020-01-20 10:15:29.264490
+Author = TrainableEwe0#4876| Channel = general| Said: Ok sweet| At: 2020-01-20 10:24:05.656293
+Author = TrainableEwe0#4876| Channel = general| Said: <@387812180315340800> <@386312885271265280> <@297887225713131522> the plan is to meet at my place around 1:00| At: 2020-01-20 10:28:34.565284
+Author = Plains Walker#6334| Channel = general| Said: Sounds much better| At: 2020-01-20 10:53:11.793676
+Author = Plains Walker#6334| Channel = general| Said: Oh hey if Zach is coming someone tell at him to bring 1,2 switch| At: 2020-01-20 10:58:04.786489
+Author = RonMan#6087| Channel = general| Said: will do| At: 2020-01-20 10:58:24.159522
+Author = alex151821#0266| Channel = general| Said: when woild we be getting done?| At: 2020-01-20 11:37:03.765403
+Author = alex151821#0266| Channel = general| Said: <@!272961391067922433>| At: 2020-01-20 11:39:07.876566
+Author = TrainableEwe0#4876| Channel = general| Said: Not sure, we can go late into the night if we order Domino’s| At: 2020-01-20 11:39:52.716756
+Author = alex151821#0266| Channel = general| Said: maybe, but there is school tomorrow| At: 2020-01-20 11:40:08.828763
+Author = TrainableEwe0#4876| Channel = general| Said: Yee| At: 2020-01-20 12:02:40.514967
+Author = TrainableEwe0#4876| Channel = general| Said: Basically there isn’t a set end time| At: 2020-01-20 12:03:04.889672
+Author = Plains Walker#6334| Channel = general| Said: Charming| At: 2020-01-20 12:08:17.862434
+Author = TrainableEwe0#4876| Channel = generalAuthor = Plains Walker#6334| Channel = general| Said: Just a heads up. I will be late| At: 2020-01-20 12:53:44.542340
+Author = Plains Walker#6334| Channel = general| Said: Hey Sean did you make sure and tell Zach all this too| At: 2020-01-20 13:01:39.314403
+Author = Plains Walker#6334| Channel = general| Said: Since he's not in the chat| At: 2020-01-20 13:01:51.021136
+Author = TrainableEwe0#4876| Channel = general| Said: Yee| At: 2020-01-20 13:11:47.460998
+Author = alex151821#0266| Channel = general| Said: I probably won't end up going| At: 2020-01-20 13:35:06.828007
+Author = RonMan#6087| Channel = general| Said: Oof| At: 2020-01-20 14:35:22.012390
+Author = RonMan#6087| Channel = general| Said: Dennis get your ass over here.| At: 2020-01-20 14:35:29.821917
+Author = RonMan#6087| Channel = general| Said: <@!297887225713131522> DENNIS| At: 2020-01-20 14:47:22.709933
+Author = alex151821#0266| Channel = general| Said: no| At: 2020-01-20 14:47:44.172615
+Author = RonMan#6087| Channel = general| Said: why not| At: 2020-01-20 14:47:49.426955
+Author = alex151821#0266| Channel = general| Said: I'm hanging ou twith my family| At: 2020-01-20 14:48:11.820749
+Author = RonMan#6087| Channel = general| Said: you live with your family| At: 2020-01-20 14:48:25.183644
+Author = RonMan#6087| Channel = general| Said: come here| At: 2020-01-20 14:48:30.749255
+Author = alex151821#0266| Channel = general| Said: no| At: 2020-01-20 14:48:36.143874
+Author = RonMan#6087| Channel = generalAuthor = Superamazatron#1662| Channel = general| Said: Tell me who wins| At: 2020-01-20 18:44:05.576388
+Author = RonMan#6087| Channel = general| Said: <@272961391067922433> thanks for having us all over| At: 2020-01-20 20:11:32.764492
+Author = TrainableEwe0#4876| Channel = general| Said: Thanks for coming over guys, that was probably the best way today could’ve gone| At: 2020-01-20 20:12:21.055039
+Author = RonMan#6087| Channel = general| Said: Idk, in some reality I'm sure a plane made of gold crashed into your backyard. That would have been pretty ***E P I C***| At: 2020-01-20 20:13:18.277815
+Author = Plains Walker#6334| Channel = general| Said: If a plane made of gold crashed on his backyard he and his family would either be dead or in a crumbled house| At: 2020-01-20 20:54:29.972599
+Author = Plains Walker#6334| Channel = general| Said: <@387812180315340800>  technically it was a tie but the game said you won because after you left I took your joycon cause I didn't wanna play with drifty boy anymore so I played as you and I won a round so there was six in total.| At: 2020-01-20 20:56:09.032042
+Author = Plains Walker#6334| Channel = general| Said: https://www.forbes.com/sites/paultassi/2020/01/19/heres-a-leaked-look-at-the-star-wars-rise-of-skywalker-villain-that-almost-was/| At: 2020-01-20 21:10:00.310352
+Author = Plains Walker#6334| Channel = general| Said: Now see this would have been a better idea than just ressurecting dear old palps, and you know not made the other films irrelevant| At: 2020-01-20 21:11:23.882173
+Author = RonMan#6087| Channel = general| Said: PIZZA PLANET| At: 2020-01-21 13:55:22.028742
+Author = alex151821#0266| Channel = general| Said: No| At: 2020-01-21 14:04:26.836242
+Author = RonMan#6087| Channel = general| Said: Fu k y u| At: 2020-01-21 14:12:17.434049
+Author = TrainableEwe0#4876| Channel = general| Said: | At: 2020-01-21 17:06:10.757365
+Author = Plains Walker#6334| Channel = general| Said: That's ominous| At: 2020-01-21 17:06:40.304879
+Author = alex151821#0266| Channel = general| Said: It's an abomination| At: 2020-01-21 17:17:55.654373
+Author = Plains Walker#6334| Channel = general| Said: What| At: 2020-01-21 17:19:09.959557
+Author = TrainableEwe0#4876| Channel = general| Said: it's a famous quote dennis| At: 2020-01-21 17:19:14.157729
+Author = alex151821#0266| Channel = general| Said: Stop playing with Seth's young impressionable mind| At: 2020-01-21 17:20:58.269405
+Author = Plains Walker#6334| Channel = general| Said: Again what| At: 2020-01-21 17:21:11.356557
+Author = Plains Walker#6334| Channel = general| Said: I know where the quote comes from| At: 2020-01-21 17:21:21.537378
+Author = Plains Walker#6334| Channel = general| Said: I was just playing along with it as of Sean had said it| At: 2020-01-21 17:21:36.247882
+Author = Plains Walker#6334| Channel = general| Said: Not Oppenheimer| At: 2020-01-21 17:21:47.433711
+Author = alex151821#0266| Channel = general| Said: | At: 2020-01-21 17:22:01.574846
+Author = alex151821#0266| Channel = general| Said: That's why it's an abomination| At: 2020-01-21 17:22:18.945011
+Author = Plains Walker#6334| Channel = general| Said: Ah no yeah that's the one| At: 2020-01-21 17:22:33.866755
+Author = Plains Walker#6334| Channel = general| Said: I forgot| At: 2020-01-21 17:22:40.819219
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: ;join| At: 2020-01-21 17:23:54.746682
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: ;;join| At: 2020-01-21 17:23:59.232602
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: ;;play https://www.youtube.com/watch?v=ytWz0qVvBZ0| At: 2020-01-21 17:24:03.599493
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: ;;skip| At: 2020-01-21 17:24:26.256553
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: ;;leave| At: 2020-01-21 17:24:35.880226
+Author = alex151821#0266| Channel = general| Said: Hm, so fredboat works for som,e of the videos that ayana doesn't| At: 2020-01-21 17:24:59.260669
+Author = alex151821#0266| Channel = bot-test| Said: =m p| At: 2020-01-21 17:25:16.830704
+Author = Ayana#8911| Channel = bot-test| Said: You are currently not in a channel. Please join a voice channel.| At: 2020-01-21 17:25:16.904311
+Author = alex151821#0266| Channel = bot-test| Said: =m join| At: 2020-01-21 17:25:20.420975
+Author = Ayana#8911| Channel = bot-test| Said: You are currently not in a channel. Please join a voice channel.| At: 2020-01-21 17:25:20.491057
+Author = alex151821#0266| Channel = bot-test| Said: =join| At: 2020-01-21 17:25:28.635339
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-21 17:25:29.117429
+Author = alex151821#0266| Channel = bot-test| Said: =m p https://www.youtube.com/watch?v=ytWz0qVvBZ0| At: 2020-01-21 17:25:34.884133
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-21 17:25:35.668086
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-21 17:25:36.640507
+Author = alex151821#0266| Channel = bot-test| Said: =m np| At: 2020-01-21 17:25:57.305769
+Author = Ayana#8911| Channel = bot-test| Said: Nothing is currently playing| At: 2020-01-21 17:25:57.370597
+Author = alex151821#0266| Channel = bot-test| Said: =leave| At: 2020-01-21 17:26:00.739139
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-21 17:26:00.822056
