@@ -514,3 +514,118 @@ Author = alex151821#0266| Channel = bot-test| Said: =m np| At: 2020-01-21 17:25:
 Author = Ayana#8911| Channel = bot-test| Said: Nothing is currently playing| At: 2020-01-21 17:25:57.370597
 Author = alex151821#0266| Channel = bot-test| Said: =leave| At: 2020-01-21 17:26:00.739139
 Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-21 17:26:00.822056
+Author = Plains Walker#6334| Channel = bots-arguments-debates| Said: I just now learned you can do smash attacks without having to time the a button and left stick| At: 2020-01-21 17:33:45.145372
+Author = Plains Walker#6334| Channel = bots-arguments-debates| Said: You can just use the right stick| At: 2020-01-21 17:34:01.583840
+Author = Plains Walker#6334| Channel = bots-arguments-debates| Said: Man I feel stupid| At: 2020-01-21 17:34:07.536042
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: general channe;| At: 2020-01-21 17:34:26.630637
+Author = TrainableEwe0#4876| Channel = general| Said: Seth don't listen to him my quote's the right one| At: 2020-01-21 18:24:49.956213
+Author = TrainableEwe0#4876| Channel = general| Said: Also Dennis| At: 2020-01-21 18:25:09.935184
+Author = TrainableEwe0#4876| Channel = general| Said: Rythm is a music bot that works with all online content I've seen (soundcloud, youtube, spotify (I think) etc.)| At: 2020-01-21 18:25:37.617234
+Author = TrainableEwe0#4876| Channel = general| Said: I just added it to crafter boid, so maybe we can test it at some point| At: 2020-01-21 18:25:52.128983
+Author = alex151821#0266| Channel = general| Said: Spotify doesn't have an API| At: 2020-01-21 18:26:26.907677
+Author = alex151821#0266| Channel = general| Said: but whatever. that's cool| At: 2020-01-21 18:26:36.045157
+Author = alex151821#0266| Channel = general| Said: Ayana just doesn't work right now because google did some stuff| At: 2020-01-21 18:27:23.805279
+Author = RonMan#6087| Channel = general| Said: HAHA SETH'S A FUCKING IDIOT| At: 2020-01-21 19:10:15.935180
+Author = alex151821#0266| Channel = general| Said: don't be like that| At: 2020-01-21 19:10:44.612654
+Author = alex151821#0266| Channel = general| Said: .| At: 2020-01-21 19:11:07.245784
+Author = TrainableEwe0#4876| Channel = general| Said: not an idiot, just not a great proofreader| At: 2020-01-21 19:23:50.066487
+Author = Plains Walker#6334| Channel = general| Said: I literally just said ominous and you people are taking a lot from that| At: 2020-01-21 19:24:30.273735
+Author = TrainableEwe0#4876| Channel = general| Said: you didn't proofread the quote| At: 2020-01-21 19:24:55.892776
+Author = TrainableEwe0#4876| Channel = general| Said: you saw the key words and got the meaning| At: 2020-01-21 19:25:04.198376
+Author = TrainableEwe0#4876| Channel = general| Said: am I wrong?| At: 2020-01-21 19:25:08.051583
+Author = Plains Walker#6334| Channel = general| Said: I mean I knew it was close ish and didn't care. I thought you were using it for the words not who said them| At: 2020-01-21 19:25:47.539911
+Author = TrainableEwe0#4876| Channel = general| Said: ah| At: 2020-01-21 19:26:12.374487
+Author = TrainableEwe0#4876| Channel = general| Said: so we agree| At: 2020-01-21 19:26:14.105239
+Author = Plains Walker#6334| Channel = general| Said: Ye| At: 2020-01-21 19:26:19.716889
+Author = RonMan#6087| Channel = general| Said: | At: 2020-01-22 17:20:00.429335
+Author = TrainableEwe0#4876| Channel = general| Said: Ayyyy| At: 2020-01-22 18:55:16.033078
+Author = Plains Walker#6334| Channel = general| Said: Cool| At: 2020-01-22 18:55:38.836320
+Author = RonMan#6087| Channel = general| Said: Vader immortal.| At: 2020-01-22 20:09:38.537127
+Author = RonMan#6087| Channel = general| Said: I highly recommend it| At: 2020-01-22 20:12:29.195578
+Author = alex151821#0266| Channel = general| Said: Beat saber| At: 2020-01-22 21:42:51.766185
+Author = Plains Walker#6334| Channel = general| Said: Most definitely a necessity| At: 2020-01-22 21:43:04.789752
+Author = RonMan#6087| Channel = general| Said: Stevie bought me beat saber on steam| At: 2020-01-22 22:07:14.747695
+Author = Plains Walker#6334| Channel = general| Said: Stevie one straight up badass| At: 2020-01-22 22:07:49.894625
+Author = RonMan#6087| Channel = general| Said: yee| At: 2020-01-22 22:07:59.215657
+Author = alex151821#0266| Channel = general| Said: =m region| At: 2020-01-23 12:12:18.737410
+Author = Ayana#8911| Channel = general| Said: ```css
+[Music Help]
+
+=m (j)oin - Joins your current voice channel
+=m (p)lay [Song] - Plays and/or enqueues a song/playlist
+   [--voice <Channel>] - Specifies the voice channel to connect to
+   [--text <Channel>] - Specifies the text channel to bind to
+   [--region <Region>] - Forces a connection to the specified region
+
+=m (q)ueue [Song] - Shows queue or enqueues a song/playlist
+   [--next] - Enqueues a song/playlist as the next item
+   [--pos <Position>] - Enqueues a song/playlist to the specified position
+
+=m (v)olume - Adjust volume of playback
+
+=m nowplaying (np) - Shows the song that is being played
+
+=m purge (pg) - Removes all items from the queue
+=m (d)elete <Number|Search> - Deletes one or more items from the queue
+
+=m (s)kip - Skips/Removes the item in position 1 of the queue
+=m shuffle (sf) - Shuffles the queue
+=m (r)epeat <on|one|off> - Manages queue repeat
+
+=m providers (pv) - Shows a list of available providers
+
+=m (l)eave - Leaves the voice channel
+
+Examples:
+    =m p example song
+    =m p example song --next --text bot-commands
+    =m j --voice music --text commands
+    =m q example song --pos 10
+    =m sf
+    =m d example song
+    =m r one
+
+<> = required information, [] = optional information, | = or. Do not include <> [] or | in your command input.
+Please join the support server for any questions. (=support for link)```| At: 2020-01-23 12:12:18.822294
+Author = alex151821#0266| Channel = general| Said: =m j --region us| At: 2020-01-23 12:12:46.939260
+Author = Ayana#8911| Channel = general| Said: You are currently not in a channel. Please join a voice channel.| At: 2020-01-23 12:12:47.016596
+Author = Plains Walker#6334| Channel = general| Said: https://youtu.be/41y-AyObeqc| At: 2020-01-24 17:58:10.550904
+Author = Plains Walker#6334| Channel = general| Said: Look at this, the animation is so good I can't believe how good it looks holy crap| At: 2020-01-24 17:58:57.949677
+Author = RonMan#6087| Channel = general| Said: Ok Seth... ok| At: 2020-01-24 19:38:14.058647
+Author = RonMan#6087| Channel = general| Said: It looks "better"| At: 2020-01-24 19:38:23.235649
+Author = RonMan#6087| Channel = general| Said: not good| At: 2020-01-24 19:38:26.386197
+Author = RonMan#6087| Channel = general| Said: just like the original show| At: 2020-01-24 19:38:37.053793
+Author = RonMan#6087| Channel = general| Said: like "wowie that sure looks better than the 3d animation from 1997"| At: 2020-01-24 19:39:07.680655
+Author = RonMan#6087| Channel = general| Said: it's not state of the art stuff, it's utterly average| At: 2020-01-24 19:39:32.420067
+Author = RonMan#6087| Channel = general| Said: I've seen SFM animations look better than that.| At: 2020-01-24 19:39:58.339908
+Author = Plains Walker#6334| Channel = general| Said: Your joking right| At: 2020-01-24 19:42:12.258101
+Author = RonMan#6087| Channel = general| Said: no| At: 2020-01-24 19:42:19.057705
+Author = Plains Walker#6334| Channel = general| Said: Sfm really?| At: 2020-01-24 19:42:30.394517
+Author = Plains Walker#6334| Channel = general| Said: There better| At: 2020-01-24 19:42:34.292383
+Author = Plains Walker#6334| Channel = general| Said: You must be delusional| At: 2020-01-24 19:42:45.136253
+Author = Plains Walker#6334| Channel = general| Said: New motion capture tech allowing for increased facial expression a whole new layer of polish and detail making the damn thing cinematic I didn't think they could even do better| At: 2020-01-24 19:45:00.453278
+Author = Plains Walker#6334| Channel = general| Said: And you say sfm looks better| At: 2020-01-24 19:45:13.843600
+Author = Plains Walker#6334| Channel = general| Said: I really don't get you| At: 2020-01-24 19:45:20.850541
+Author = RonMan#6087| Channel = general| Said: from a technical standpoint what is being done there is closer to state of the art than sfm, sfm is free so... the face that it could look better than that at least stylistically is a spit in the face of the losers that make that shit| At: 2020-01-24 19:45:23.684737
+Author = Plains Walker#6334| Channel = general| Said: Criticism of style is not the same thing as animation| At: 2020-01-24 19:46:01.004288
+Author = RonMan#6087| Channel = general| Said: https://youtu.be/XfmZBEcWyi4| At: 2020-01-24 19:46:18.312495
+Author = Plains Walker#6334| Channel = general| Said: Yes I'm not the greatest fan of the style but it was everything thing else that made the clone wars trailer awesome| At: 2020-01-24 19:46:47.308066
+Author = RonMan#6087| Channel = general| Said: Star Wars bad| At: 2020-01-24 19:47:15.164537
+Author = Plains Walker#6334| Channel = general| Said: You have odd taste| At: 2020-01-24 19:47:34.529097
+Author = RonMan#6087| Channel = general| Said: https://tenor.com/view/shrek-dance-fortnite-fortnite-default-dance-shrek-dance-gif-15809394| At: 2020-01-24 19:47:47.383540
+Author = RonMan#6087| Channel = general| Said: *refined| At: 2020-01-24 19:48:05.913452
+Author = RonMan#6087| Channel = general| Said: the word you're looking for is refined| At: 2020-01-24 19:48:18.775392
+Author = Plains Walker#6334| Channel = general| Said: No I chose the right word| At: 2020-01-24 19:49:06.352319
+Author = Plains Walker#6334| Channel = general| Said: https://www.youtube.com/playlist?list=PLmQUZmXV1v3QhxYJj_kFxw5kK4P8j-TzZ| At: 2020-01-26 21:47:48.558639
+Author = Plains Walker#6334| Channel = general| Said: Let me know if I missed something| At: 2020-01-26 21:48:06.746201
+Author = Plains Walker#6334| Channel = general| Said: Or should get rid of something| At: 2020-01-26 21:48:24.009941
+Author = Plains Walker#6334| Channel = general| Said: https://youtu.be/8blIAfHXCEA| At: 2020-01-28 19:21:59.408169
+Author = Plains Walker#6334| Channel = general| Said: Imagine this vs meta knight| At: 2020-01-28 19:22:10.973448
+Author = Plains Walker#6334| Channel = general| Said: That was my second period| At: 2020-01-28 19:22:21.467938
+Author = alex151821#0266| Channel = general| Said: =m j| At: 2020-01-31 15:13:28.530318
+Author = Ayana#8911| Channel = general| Said: | At: 2020-01-31 15:13:28.976190
+Author = alex151821#0266| Channel = bot-test| Said: =m p https://www.youtube.com/watch?v=ytWz0qVvBZ0| At: 2020-01-31 15:13:48.055053
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-31 15:13:49.794091
+Author = Ayana#8911| Channel = general| Said: | At: 2020-01-31 15:13:52.263657
+Author = alex151821#0266| Channel = bot-test| Said: =m leave| At: 2020-01-31 15:16:32.520106
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-31 15:16:32.605003
