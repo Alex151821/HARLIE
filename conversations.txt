@@ -239,7 +239,7 @@ Author = RonMan#6087| Channel = general| Said: thanks dude| At: 2020-01-12 01:01
 Author = TrainableEwe0#4876| Channel = general| Said: happy birthday you deviant| At: 2020-01-12 01:07:30.090646
 Author = RonMan#6087| Channel = general| Said: I actually can't decide whether or not to be offended by the word deviant. Or well, rather whether or not I *should* be offended or whether or not that was partially intended. Because fuck you I'll deviate if I want. Anyway, thanks.| At: 2020-01-12 02:00:13.931772
 Author = TrainableEwe0#4876| Channel = generalAuthor = Superamazatron#1662| Channel = general| Said: Happy birthday ron, hope you had/are having a good one| At: 2020-01-12 16:09:54.781851
-Author = TrainableEwe0#4876| Channel = general| Said: How’s the birthday going man?| At: 2020-01-12 16:31:51.187720
+Author = TrainableEwe0#4876| Channel = general| Said: Howï¿½s the birthday going man?| At: 2020-01-12 16:31:51.187720
 Author = RonMan#6087| Channel = general| Said: Pretty... lame but uh.... I've accumulated 400 dollars combining christmas money, birthday money and selling old game consoles money. I intend to spend it on a VR headset. So overall not too bad.| At: 2020-01-12 20:32:25.912834
 Author = Plains Walker#6334| Channel = general| Said: What old game consoles| At: 2020-01-12 20:44:18.664787
 Author = TrainableEwe0#4876| Channel = general| Said: AYY| At: 2020-01-12 20:53:59.974660
@@ -401,7 +401,7 @@ Author = TrainableEwe0#4876| Channel = general| Said: Anyone wanna hang out tomo
 Author = Plains Walker#6334| Channel = general| Said: Yes ,yes yes, a thousand times yes| At: 2020-01-19 10:52:42.044860
 Author = Plains Walker#6334| Channel = general| Said: Whether or not I can I have no idea but I definitely want to try| At: 2020-01-19 10:53:00.085229
 Author = TrainableEwe0#4876| Channel = general| Said: Ok sweet| At: 2020-01-19 11:04:48.952588
-Author = TrainableEwe0#4876| Channel = general| Said: I’ll see if we can hang out at my house but if not maybe someone else’s house or the teen center| At: 2020-01-19 11:05:16.096612
+Author = TrainableEwe0#4876| Channel = general| Said: Iï¿½ll see if we can hang out at my house but if not maybe someone elseï¿½s house or the teen center| At: 2020-01-19 11:05:16.096612
 Author = Plains Walker#6334| Channel = general| Said: Alright dope| At: 2020-01-19 11:05:30.751684
 Author = Plains Walker#6334| Channel = general| Said: You got any information?| At: 2020-01-19 16:30:33.472515
 Author = TrainableEwe0#4876| Channel = general| Said: nope| At: 2020-01-19 16:34:07.337755
@@ -451,10 +451,10 @@ Author = Plains Walker#6334| Channel = general| Said: Oh hey if Zach is coming s
 Author = RonMan#6087| Channel = general| Said: will do| At: 2020-01-20 10:58:24.159522
 Author = alex151821#0266| Channel = general| Said: when woild we be getting done?| At: 2020-01-20 11:37:03.765403
 Author = alex151821#0266| Channel = general| Said: <@!272961391067922433>| At: 2020-01-20 11:39:07.876566
-Author = TrainableEwe0#4876| Channel = general| Said: Not sure, we can go late into the night if we order Domino’s| At: 2020-01-20 11:39:52.716756
+Author = TrainableEwe0#4876| Channel = general| Said: Not sure, we can go late into the night if we order Dominoï¿½s| At: 2020-01-20 11:39:52.716756
 Author = alex151821#0266| Channel = general| Said: maybe, but there is school tomorrow| At: 2020-01-20 11:40:08.828763
 Author = TrainableEwe0#4876| Channel = general| Said: Yee| At: 2020-01-20 12:02:40.514967
-Author = TrainableEwe0#4876| Channel = general| Said: Basically there isn’t a set end time| At: 2020-01-20 12:03:04.889672
+Author = TrainableEwe0#4876| Channel = general| Said: Basically there isnï¿½t a set end time| At: 2020-01-20 12:03:04.889672
 Author = Plains Walker#6334| Channel = general| Said: Charming| At: 2020-01-20 12:08:17.862434
 Author = TrainableEwe0#4876| Channel = generalAuthor = Plains Walker#6334| Channel = general| Said: Just a heads up. I will be late| At: 2020-01-20 12:53:44.542340
 Author = Plains Walker#6334| Channel = general| Said: Hey Sean did you make sure and tell Zach all this too| At: 2020-01-20 13:01:39.314403
@@ -472,7 +472,7 @@ Author = RonMan#6087| Channel = general| Said: come here| At: 2020-01-20 14:48:3
 Author = alex151821#0266| Channel = general| Said: no| At: 2020-01-20 14:48:36.143874
 Author = RonMan#6087| Channel = generalAuthor = Superamazatron#1662| Channel = general| Said: Tell me who wins| At: 2020-01-20 18:44:05.576388
 Author = RonMan#6087| Channel = general| Said: <@272961391067922433> thanks for having us all over| At: 2020-01-20 20:11:32.764492
-Author = TrainableEwe0#4876| Channel = general| Said: Thanks for coming over guys, that was probably the best way today could’ve gone| At: 2020-01-20 20:12:21.055039
+Author = TrainableEwe0#4876| Channel = general| Said: Thanks for coming over guys, that was probably the best way today couldï¿½ve gone| At: 2020-01-20 20:12:21.055039
 Author = RonMan#6087| Channel = general| Said: Idk, in some reality I'm sure a plane made of gold crashed into your backyard. That would have been pretty ***E P I C***| At: 2020-01-20 20:13:18.277815
 Author = Plains Walker#6334| Channel = general| Said: If a plane made of gold crashed on his backyard he and his family would either be dead or in a crumbled house| At: 2020-01-20 20:54:29.972599
 Author = Plains Walker#6334| Channel = general| Said: <@387812180315340800>  technically it was a tie but the game said you won because after you left I took your joycon cause I didn't wanna play with drifty boy anymore so I played as you and I won a round so there was six in total.| At: 2020-01-20 20:56:09.032042
@@ -629,3 +629,232 @@ Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-31 15:13:49.794091
 Author = Ayana#8911| Channel = general| Said: | At: 2020-01-31 15:13:52.263657
 Author = alex151821#0266| Channel = bot-test| Said: =m leave| At: 2020-01-31 15:16:32.520106
 Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-01-31 15:16:32.605003
+Author = RonMan#6087| Channel = general| Said: | At: 2020-02-05 15:28:08.154287
+Author = RonMan#6087| Channel = general| Said: https://youtu.be/6RoO7ceLb7s| At: 2020-02-05 15:34:03.598021
+Author = Plains Walker#6334| Channel = general| Said: Guys I can finally beat level 9 CPUs| At: 2020-02-06 18:21:54.162287
+Author = Plains Walker#6334| Channel = general| Said: I am happy| At: 2020-02-06 18:21:58.592674
+Author = Superamazatron#1662| Channel = general| Said: Neat| At: 2020-02-06 20:49:12.871030
+Author = TrainableEwe0#4876| Channel = general| Said: Haha loser| At: 2020-02-07 00:20:28.934947
+Author = TrainableEwe0#4876| Channel = general| Said: I can beat level 15 cpus| At: 2020-02-07 00:20:40.712228
+Author = Plains Walker#6334| Channel = general| Said: Hold on a minute| At: 2020-02-07 05:46:52.317555
+Author = TrainableEwe0#4876| Channel = general| Said: ...| At: 2020-02-07 15:03:34.494981
+Author = Plains Walker#6334| Channel = general| Said: https://youtu.be/CCrtZwF2C-8| At: 2020-02-08 20:21:31.248834
+Author = alex151821#0266| Channel = general| Said: https://www.youtube.com/watch?v=duuhia5X0eo| At: 2020-02-18 08:42:33.313771
+Author = alex151821#0266| Channel = general| Said: Anyone else agree that this was our magnum opus| At: 2020-02-18 08:42:43.705996
+Author = TrainableEwe0#4876| Channel = general| Said: Thatï¿½s the video theyï¿½ll play at our funerals to remember our proudest achievements| At: 2020-02-18 09:05:12.529574
+Author = TrainableEwe0#4876| Channel = general| Said: ï¿½Yeah their lives were cool or whatever but check out this sick YouTube video they made in 2017ï¿½| At: 2020-02-18 09:06:05.024255
+Author = Superamazatron#1662| Channel = general| Said: https://youtu.be/5ouipq4n5BM| At: 2020-02-19 22:08:23.857153
+Author = Superamazatron#1662| Channel = general| Said: Also I was watching the old videos and honestly me and seth sound exactly the same except for Seth's thick accent.| At: 2020-02-19 22:51:26.301690
+Author = Plains Walker#6334| Channel = general| Said: I have an accent| At: 2020-02-19 22:52:41.074968
+Author = alex151821#0266| Channel = general| Said: You had an accent| At: 2020-02-19 22:52:53.857217
+Author = Plains Walker#6334| Channel = general| Said: What was the accent| At: 2020-02-19 22:53:01.699677
+Author = Superamazatron#1662| Channel = general| Said: Texas| At: 2020-02-19 22:53:12.372131
+Author = Plains Walker#6334| Channel = general| Said: Oh yeah. I thought I still had it| At: 2020-02-19 22:53:32.105382
+Author = Superamazatron#1662| Channel = general| Said: Its significantly weaker| At: 2020-02-19 22:53:48.335169
+Author = Plains Walker#6334| Channel = general| Said: Damn, need to move back to Texas pronto| At: 2020-02-19 22:54:08.818509
+Author = Plains Walker#6334| Channel = general| Said: It really kicks in back home| At: 2020-02-19 22:54:22.521839
+Author = alex151821#0266| Channel = general| Said: Dammit Jack, you keep typing the same thing as me but faster| At: 2020-02-19 22:54:24.056518
+Author = Plains Walker#6334| Channel = general| Said: Ha| At: 2020-02-19 22:54:31.107570
+Author = Superamazatron#1662| Channel = general| Said: MUAHHAHA| At: 2020-02-19 22:54:36.282781
+Author = Plains Walker#6334| Channel = general| Said: Hooray for evil deeds| At: 2020-02-19 22:54:48.480535
+Author = Superamazatron#1662| Channel = generalAuthor = Plains Walker#6334| Channel = general| Said: Yeah but I dis notice that when I went back to Texas mah speech kicked back in to that Texan swang I do so adore| At: 2020-02-19 22:56:11.520872
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: ;;play ride or die skypeace| At: 2020-02-20 15:18:56.555337
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: ;;play 1| At: 2020-02-20 15:19:04.366024
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: ;;restart| At: 2020-02-20 15:19:48.814778
+Author = RonMan#6087| Channel = bots-arguments-debates| Said: ;;stop| At: 2020-02-20 15:40:32.871724
+Author = RonMan#6087| Channel = bots-arguments-debates| Said: ;;play https://www.youtube.com/watch?v=xI-5hV1iw8I| At: 2020-02-20 15:40:36.490636
+Author = RonMan#6087| Channel = bots-arguments-debates| Said: ;;play https://www.youtube.com/watch?v=1_mZggt6aUg&list=WL&index=10&t=0s| At: 2020-02-20 15:42:54.009342
+Author = RonMan#6087| Channel = bots-arguments-debates| Said: ;;;play https://youtu.be/1_mZggt6aUg| At: 2020-02-20 15:43:08.297418
+Author = RonMan#6087| Channel = bots-arguments-debates| Said: ;;play https://youtu.be/1_mZggt6aUg| At: 2020-02-20 15:43:14.730837
+Author = Superamazatron#1662| Channel = bots-arguments-debates| Said: ;;Witchblade Opening [HD]| At: 2020-02-20 15:50:29.448401
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: ;;join| At: 2020-02-20 15:51:21.742142
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: ;;join| At: 2020-02-20 15:52:21.349991
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: ;;join| At: 2020-02-20 15:52:44.633689
+Author = Superamazatron#1662| Channel = bots-arguments-debates| Said: ;; join| At: 2020-02-20 15:53:32.410312
+Author = Superamazatron#1662| Channel = bots-arguments-debates| Said: ;; play Witchblade Opening [HD]| At: 2020-02-20 15:54:15.707592
+Author = Superamazatron#1662| Channel = bots-arguments-debates| Said: 1| At: 2020-02-20 15:54:26.700374
+Author = Superamazatron#1662| Channel = bots-arguments-debates| Said: ;; play 1| At: 2020-02-20 15:54:39.319765
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: ;;queue broforce theme song| At: 2020-02-20 15:54:59.321680
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: ;;play broforce theme song| At: 2020-02-20 15:55:13.610593
+Author = alex151821#0266| Channel = bots-arguments-debates| Said: ;;play 1| At: 2020-02-20 15:55:19.118581
+Author = RonMan#6087| Channel = bots-arguments-debates| Said: ;;play https://www.youtube.com/watch?v=hJwZaKFPvok| At: 2020-02-20 18:06:39.360159
+Author = RonMan#6087| Channel = general| Said: <@!297887225713131522>| At: 2020-02-20 19:25:20.812280
+Author = RonMan#6087| Channel = general| Said: DENNIS| At: 2020-02-20 19:31:14.133925
+Author = alex151821#0266| Channel = general| Said: What| At: 2020-02-20 19:31:34.565174
+Author = RonMan#6087| Channel = general| Said: Why did you make another voice channel that I can't go into? I was really hoping to harass you two with my music.| At: 2020-02-20 19:32:28.772272
+Author = alex151821#0266| Channel = general| Said: You answered your own question| At: 2020-02-20 19:39:46.075755
+Author = Superamazatron#1662| Channel = general| Said: <@272961391067922433>| At: 2020-02-20 19:59:42.944076
+Author = TrainableEwe0#4876| Channel = general| Said: bruh| At: 2020-02-20 20:00:57.465557
+Author = TrainableEwe0#4876| Channel = general| Said: im sad| At: 2020-02-20 20:01:14.271961
+Author = Superamazatron#1662| Channel = general| Said: What about| At: 2020-02-20 20:01:25.290721
+Author = TrainableEwe0#4876| Channel = general| Said: i can't join your voice chat| At: 2020-02-20 20:01:35.101886
+Author = alex151821#0266| Channel = general| Said: Tell me who wins| At: 2020-02-20 21:35:32.214524
+Author = Superamazatron#1662| Channel = general| Said: I won| At: 2020-02-20 21:48:05.461899
+Author = alex151821#0266| Channel = general| Said: Kinda figured, but you never know| At: 2020-02-20 21:48:24.402055
+Author = TrainableEwe0#4876| Channel = general| Said: i did almost a little bit decent| At: 2020-02-20 21:50:38.398943
+Author = alex151821#0266| Channel = general| Said: You were starting to figure it out for sure| At: 2020-02-20 21:50:56.688939
+Author = alex151821#0266| Channel = bot-test| Said: =m j| At: 2020-02-21 09:04:52.863999
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-02-21 09:04:53.456903
+Author = alex151821#0266| Channel = bot-test| Said: =m p https://www.youtube.com/watch?v=ytWz0qVvBZ0| At: 2020-02-21 09:04:54.603471
+Author = Ayana#8911| Channel = bot-test| Said: Woah! Way too spicy - this command is currently on cooldown.| At: 2020-02-21 09:04:54.680413
+Author = alex151821#0266| Channel = bot-test| Said: =m p https://www.youtube.com/watch?v=ytWz0qVvBZ0| At: 2020-02-21 09:05:06.560482
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-02-21 09:05:07.534126
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-02-21 09:05:08.654784
+Author = alex151821#0266| Channel = bot-test| Said: =m stop| At: 2020-02-21 09:05:27.076078
+Author = alex151821#0266| Channel = bot-test| Said: =m leave| At: 2020-02-21 09:05:35.042774
+Author = Ayana#8911| Channel = bot-test| Said: | At: 2020-02-21 09:05:35.111590
+Author = Superamazatron#1662| Channel = general| Said: <@272961391067922433> what time at your house tomorrow.| At: 2020-02-21 15:53:36.236807
+Author = RonMan#6087| Channel = general| Said: What the FUCK| At: 2020-02-21 16:55:16.878880
+Author = Plains Walker#6334| Channel = general| Said: What| At: 2020-02-21 17:00:12.242191
+Author = Superamazatron#1662| Channel = general| Said: ???| At: 2020-02-21 17:37:02.362421
+Author = TrainableEwe0#4876| Channel = general| Said: 4:00 bro| At: 2020-02-21 18:19:54.362470
+Author = TrainableEwe0#4876| Channel = general| Said: Also what| At: 2020-02-21 18:19:57.265681
+Author = RonMan#6087| Channel = general| Said: https://twitter.com/_madbot_/status/1230366655286513666?s=20| At: 2020-02-21 19:29:04.783734
+Author = RonMan#6087| Channel = general| Said: Guess I WASN'T invited.| At: 2020-02-22 16:35:01.352958
+Author = Superamazatron#1662| Channel = general| Said: Your not a vampire you can come dude| At: 2020-02-22 16:35:57.724518
+Author = alex151821#0266| Channel = general| Said: You shouldï¿½ve been there at lunch when when we were talking about it| At: 2020-02-22 16:36:59.994630
+Author = RonMan#6087| Channel = general| Said: Jack wasn't there at lunch. He still got invited.| At: 2020-02-22 16:38:57.129386
+Author = Plains Walker#6334| Channel = general| Said: He sees jack when they hang out| At: 2020-02-22 16:52:17.638593
+Author = Plains Walker#6334| Channel = general| Said: Your hardly around lately| At: 2020-02-22 16:52:47.837131
+Author = Superamazatron#1662| Channel = general| Said: Yeah I played starcraft with them last night| At: 2020-02-22 16:53:02.255114
+Author = TrainableEwe0#4876| Channel = general| Said: Itï¿½s always an open invitation, nobody was formally invited| At: 2020-02-23 04:07:36.347315
+Author = RonMan#6087| Channel = general| Said: Nah I'm joshing, I had things to do anyway. Hope y'all had fun.| At: 2020-02-23 05:34:09.464151
+Author = TrainableEwe0#4876| Channel = general| Said: I think we did| At: 2020-02-24 07:38:34.016096
+Author = TrainableEwe0#4876| Channel = general| Said: Hard to tell with Monopoly| At: 2020-02-24 07:39:02.759487
+Author = RonMan#6087| Channel = general| Said: https://clips.twitch.tv/PeppySoftBorkItsBoshyTime| At: 2020-02-24 15:01:31.177147
+Author = RonMan#6087| Channel = general| Said: https://www.youtube.com/watch?v=Xzx2Q8M6omw| At: 2020-03-01 02:48:04.530913
+Author = TrainableEwe0#4876| Channel = general| Said: Check this out| At: 2020-03-01 14:55:18.735351
+Author = alex151821#0266| Channel = general| Said: Nice| At: 2020-03-01 14:56:08.639828
+Author = Superamazatron#1662| Channel = general| Said: Cool| At: 2020-03-01 14:56:14.078721
+Author = TrainableEwe0#4876| Channel = general| Said: Iï¿½m super happy with it| At: 2020-03-01 15:08:46.151646
+Author = TrainableEwe0#4876| Channel = general| Said: Iï¿½ve got a remote I can use to change the colors| At: 2020-03-01 15:08:56.824237
+Author = TrainableEwe0#4876| Channel = generalAuthor = alex151821#0266| Channel = general| Said: Nice| At: 2020-03-01 15:09:10.011218
+Author = Plains Walker#6334| Channel = general| Said: Looking like a pro gamer my dude| At: 2020-03-01 15:24:33.310292
+Author = TrainableEwe0#4876| Channel = general| Said: Such a gamer| At: 2020-03-01 15:31:19.691689
+Author = Plains Walker#6334| Channel = general| Said: How does it look in the dark| At: 2020-03-01 21:29:05.960401
+Author = TrainableEwe0#4876| Channel = general| Said: Actually havenï¿½t tried it yet| At: 2020-03-01 22:21:55.154429
+Author = Plains Walker#6334| Channel = general| Said: Do it| At: 2020-03-01 22:22:17.452380
+Author = TrainableEwe0#4876| Channel = general| Said: Oooooooooh| At: 2020-03-01 22:31:03.425806
+Author = TrainableEwe0#4876| Channel = general| Said: Oooooooooooooooooooh| At: 2020-03-01 22:31:23.498365
+Author = TrainableEwe0#4876| Channel = general| Said: | At: 2020-03-01 22:32:56.592283
+Author = Plains Walker#6334| Channel = general| Said: That is dope| At: 2020-03-01 22:33:26.218340
+Author = TrainableEwe0#4876| Channel = general| Said: Bro| At: 2020-03-01 22:41:32.969205
+Author = TrainableEwe0#4876| Channel = general| Said: Hold on lemme see how it looks with my led keyboard| At: 2020-03-01 22:41:49.236135
+Author = TrainableEwe0#4876| Channel = general| Said: I am| At: 2020-03-01 22:42:04.404707
+Author = TrainableEwe0#4876| Channel = general| Said: So happy| At: 2020-03-01 22:42:07.560624
+Author = Plains Walker#6334| Channel = general| Said: Understandable| At: 2020-03-01 22:42:22.073368
+Author = TrainableEwe0#4876| Channel = general| Said: Glad I finally got around to doing that lol| At: 2020-03-01 22:44:21.389593
+Author = TrainableEwe0#4876| Channel = general| Said: Iï¿½ve had the strip lights for a couple weeks| At: 2020-03-01 22:44:28.757267
+Author = Plains Walker#6334| Channel = general| Said: Hard to find the time but it definitely paid off| At: 2020-03-01 22:44:58.179752
+Author = TrainableEwe0#4876| Channel = general| Said: Yee yee| At: 2020-03-01 22:45:04.288719
+Author = TrainableEwe0#4876| Channel = general| Said: They were a bit pricey tho| At: 2020-03-01 22:45:11.750460
+Author = Plains Walker#6334| Channel = general| Said: How much| At: 2020-03-01 22:45:21.064920
+Author = TrainableEwe0#4876| Channel = general| Said: Like $36| At: 2020-03-01 22:45:26.214392
+Author = TrainableEwe0#4876| Channel = general| Said: I bought them at Walmart| At: 2020-03-01 22:45:33.592973
+Author = Plains Walker#6334| Channel = general| Said: For how much length of lights| At: 2020-03-01 22:45:46.505411
+Author = TrainableEwe0#4876| Channel = general| Said: ~16 feet| At: 2020-03-01 22:45:55.503016
+Author = TrainableEwe0#4876| Channel = general| Said: I ended up with about a foot left over| At: 2020-03-01 22:46:10.742526
+Author = Plains Walker#6334| Channel = general| Said: That's not too bad but no too good either| At: 2020-03-01 22:46:23.791636
+Author = TrainableEwe0#4876| Channel = general| Said: Yeah| At: 2020-03-01 22:46:27.654696
+Author = TrainableEwe0#4876| Channel = general| Said: They came with a remote tho| At: 2020-03-01 22:46:31.880230
+Author = TrainableEwe0#4876| Channel = general| Said: I can change the colors| At: 2020-03-01 22:46:36.790027
+Author = Plains Walker#6334| Channel = general| Said: Yeah that makes it more worth the price| At: 2020-03-01 22:46:48.227407
+Author = TrainableEwe0#4876| Channel = general| Said: I can also make it cycle through colors but red looks best tbh| At: 2020-03-01 22:46:51.413359
+Author = Plains Walker#6334| Channel = general| Said: It does work best with your whole theme there| At: 2020-03-01 22:47:13.167962
+Author = TrainableEwe0#4876| Channel = general| Said: | At: 2020-03-01 22:47:52.630894
+Author = Plains Walker#6334| Channel = general| Said: I do like that blue though| At: 2020-03-01 22:48:10.413179
+Author = Plains Walker#6334| Channel = general| Said: It's more calming| At: 2020-03-01 22:48:21.933682
+Author = Plains Walker#6334| Channel = general| Said: https://youtu.be/swc1URz9EdU| At: 2020-03-01 23:00:51.248201
+Author = TrainableEwe0#4876| Channel = general| Said: **BOWSER'S NOT DUMB HE'S COOL SHUT UP**| At: 2020-03-02 01:07:11.372985
+Author = Superamazatron#1662| Channel = general| Said: Hey guys my house is open this weekend. My mom isn't going to be home and I thought it might be a good time to hangout. Also I got betrayal at house on the hill and I think it'll be good to play. Ps my mom isn't going to be home and I'll be the only one in my house so you should make sure your parents are ok with that| At: 2020-03-09 17:47:14.682189
+Author = Superamazatron#1662| Channel = general| Said: Also it's my spring break next week| At: 2020-03-09 17:47:31.828545
+Author = Superamazatron#1662| Channel = general| Said: Everyone is invited| At: 2020-03-09 17:48:56.531069
+Author = RonMan#6087| Channel = general| Said: Everyone except Dennis is turning an adult this year if I remember correctly so I don't think your mom not being home is really gonna matter.| At: 2020-03-09 18:52:00.658397
+Author = Superamazatron#1662| Channel = general| Said: Yeah. I'm just saying it might be a good idea. Especially seth and dennis.| At: 2020-03-09 19:04:35.662918
+Author = Superamazatron#1662| Channel = general| Said: Hey guys.  Please get back to me by Thursday so I have time to plan. My house is open this weekend and I mean completely. So if you guys could get back to me that would be great. Otherwise I will assume you are not coming. And will not account for you when I buy food. I was thinking like 5pm friday to like 12pm sunday. You guys can arrive anywhere in that time zone. I may need to adjust. I would just really appreciate knowing how many people plan on showing up| At: 2020-03-10 14:13:38.315285
+Author = alex151821#0266| Channel = general| Said: Is this weekend friday-saturday or saturday-sunday| At: 2020-03-10 14:43:56.168531
+Author = Superamazatron#1662| Channel = general| Said: It can be both. But let's say Saturday to Sunday| At: 2020-03-10 14:44:43.488494
+Author = Superamazatron#1662| Channel = general| Said: At like 10 am till like noon next day| At: 2020-03-10 14:46:30.345404
+Author = alex151821#0266| Channel = general| Said: That could work, but lemme check| At: 2020-03-10 14:47:02.560306
+Author = alex151821#0266| Channel = general| Said: If my dad or my grandparents are at home then I should be able to, but if not, I canï¿½t leave my sister home alone| At: 2020-03-10 14:50:52.474677
+Author = Superamazatron#1662| Channel = general| Said: Ok.| At: 2020-03-10 15:02:32.847866
+Author = alex151821#0266| Channel = general| Said: Ok, looks like I can. Saturday-Sunday works for me. Friday-Saturday does too, but Iï¿½d be late on Friday| At: 2020-03-10 15:11:06.102334
+Author = Superamazatron#1662| Channel = general| Said: Ok. Let's do Saturday sunday. For convenience| At: 2020-03-10 15:12:21.494990
+Author = alex151821#0266| Channel = general| Said: <@386312885271265280> Can you do Saturday-Sunday? I know youï¿½re busy| At: 2020-03-10 15:13:39.601445
+Author = Superamazatron#1662| Channel = general| Said: @everyone please tell me if you can come on saturday| At: 2020-03-10 19:47:40.294257
+Author = alex151821#0266| Channel = general| Said: My grandparents should be here, so Iï¿½ll most likely be there. Unless something weird happens| At: 2020-03-10 19:49:22.149138
+Author = Superamazatron#1662| Channel = general| Said: Cool. But if everyone else could give me a yes or no it would be great| At: 2020-03-10 19:50:24.087377
+Author = Plains Walker#6334| Channel = general| Said: I may be able to hang out some on Saturday after build day at 3 but I will have to do homework on Sunday more than likely| At: 2020-03-10 19:51:30.493357
+Author = Superamazatron#1662| Channel = general| Said: Ok| At: 2020-03-10 19:51:42.524440
+Author = TrainableEwe0#4876| Channel = generalAuthor = Superamazatron#1662| Channel = general| Said: Cool| At: 2020-03-10 19:58:14.958931
+Author = RonMan#6087| Channel = general| Said: Saturday? Uh when do we arrive?| At: 2020-03-10 22:21:32.599284
+Author = RonMan#6087| Channel = general| Said: I might need to walk or bum a ride off one of you| At: 2020-03-10 22:22:07.969270
+Author = alex151821#0266| Channel = general| Said: Like 10 am| At: 2020-03-10 22:37:31.884966
+Author = RonMan#6087| Channel = general| Said: We're all doomed to an untimely death.| At: 2020-03-13 09:32:41.764553
+Author = Superamazatron#1662| Channel = general| Said: What kind though. Also what| At: 2020-03-13 09:33:19.334760
+Author = RonMan#6087| Channel = generalAuthor = Superamazatron#1662| Channel = generalAuthor = TrainableEwe0#4876| Channel = general| Said: Thank you rob| At: 2020-03-13 17:54:41.899019
+Author = Plains Walker#6334| Channel = general| Said: <@387812180315340800>  I won't be able to hang this weekend| At: 2020-03-13 21:30:16.049861
+Author = alex151821#0266| Channel = general| Said: I probably wonï¿½t either| At: 2020-03-13 21:53:44.381044
+Author = alex151821#0266| Channel = general| Said: My parents just decided that Iï¿½m leaving early on Sunday to go to Denver for two weeks| At: 2020-03-13 22:01:31.111796
+Author = RonMan#6087| Channel = general| Said: looks like it's fucking NOBODY because I wasn't planning on showing up either| At: 2020-03-13 23:44:49.411489
+Author = Superamazatron#1662| Channel = general| Said: Well damn| At: 2020-03-13 23:45:18.550415
+Author = RonMan#6087| Channel = general| Said: Sorry Jack, maybe some other time during this fuckin' 3 week break.| At: 2020-03-13 23:45:55.300007
+Author = alex151821#0266| Channel = general| Said: Yo, howï¿½s everyone doing?| At: 2020-03-17 21:51:50.708963
+Author = Plains Walker#6334| Channel = general| Said: My work ethic is shit so forcing myself to do homework sucks but other than that no complaints| At: 2020-03-17 21:52:39.907781
+Author = alex151821#0266| Channel = general| Said: Yeah same| At: 2020-03-17 21:53:53.093614
+Author = Plains Walker#6334| Channel = general| Said: But I also finished Halo reach so there's a plus| At: 2020-03-17 21:54:21.715474
+Author = alex151821#0266| Channel = general| Said: Nice| At: 2020-03-17 21:56:03.755565
+Author = Plains Walker#6334| Channel = general| Said: How you doin| At: 2020-03-17 21:56:43.087241
+Author = alex151821#0266| Channel = general| Said: Pretty good. Been pretty bored most of the time| At: 2020-03-17 21:57:31.038306
+Author = Plains Walker#6334| Channel = general| Said: Ye. Did you go to Denver| At: 2020-03-17 21:57:54.081605
+Author = alex151821#0266| Channel = general| Said: Yup, which means I canï¿½t play all the games I usually play| At: 2020-03-17 21:58:25.185763
+Author = Plains Walker#6334| Channel = general| Said: Oof| At: 2020-03-17 21:58:31.741640
+Author = TrainableEwe0#4876| Channel = general| Said: still here| At: 2020-03-17 22:13:24.703636
+Author = Plains Walker#6334| Channel = general| Said: Still breathing?| At: 2020-03-17 22:13:38.249130
+Author = TrainableEwe0#4876| Channel = general| Said: i think so| At: 2020-03-17 22:13:42.493843
+Author = Plains Walker#6334| Channel = general| Said: Ok good| At: 2020-03-17 22:13:51.254248
+Author = alex151821#0266| Channel = general| Said: Hope so| At: 2020-03-17 22:13:51.268358
+Author = TrainableEwe0#4876| Channel = general| Said: haven't checked| At: 2020-03-17 22:13:55.832013
+Author = TrainableEwe0#4876| Channel = general| Said: one sec| At: 2020-03-17 22:13:59.888582
+Author = TrainableEwe0#4876| Channel = general| Said: uh oh| At: 2020-03-17 22:14:10.989521
+Author = Plains Walker#6334| Channel = general| Said: Ruh ro| At: 2020-03-17 22:14:30.994372
+Author = Plains Walker#6334| Channel = general| Said: Oh, well guess he died| At: 2020-03-17 22:15:05.017203
+Author = TrainableEwe0#4876| Channel = general| Said: my bad| At: 2020-03-17 22:15:20.417411
+Author = Plains Walker#6334| Channel = general| Said: <@387812180315340800>  alright jack we need you to revive Sean| At: 2020-03-17 22:15:52.457009
+Author = TrainableEwe0#4876| Channel = generalAuthor = Superamazatron#1662| Channel = general| Said: joojooboojoo come back dangit.* Kick* *revive*| At: 2020-03-17 23:22:30.032765
+Author = TrainableEwe0#4876| Channel = general| Said: *gasp*| At: 2020-03-17 23:34:32.754075
+Author = TrainableEwe0#4876| Channel = generalAuthor = alex151821#0266| Channel = general| Said: Always good to have a necromancer around| At: 2020-03-17 23:39:11.385258
+Author = RonMan#6087| Channel = general| Said: y'all ever message discord from inside your VR headset?| At: 2020-03-18 02:30:59.812117
+Author = RonMan#6087| Channel = general| Said: me neither| At: 2020-03-18 02:33:34.569158
+Author = RonMan#6087| Channel = general| Said: https://tenor.com/view/lucky-star-anime-konata-izumi-computer-gaming-gif-14835307| At: 2020-03-18 02:37:33.347595
+Author = RonMan#6087| Channel = general| Said: https://clips.twitch.tv/CoyTalentedButterCoolStoryBro| At: 2020-03-20 15:15:11.117870
+Author = alex151821#0266| Channel = general| Said: Being totally honest with you, thatï¿½s pretty impressive| At: 2020-03-20 15:17:09.504340
+Author = RonMan#6087| Channel = general| Said: Ross is the mega gamer of the month.| At: 2020-03-20 15:17:21.608664
+Author = Plains Walker#6334| Channel = general| Said: You guys paying attention to the news| At: 2020-03-23 16:04:40.512711
+Author = Plains Walker#6334| Channel = general| Said: ??| At: 2020-03-23 16:04:45.348889
+Author = Superamazatron#1662| Channel = general| Said: What about it| At: 2020-03-23 16:05:11.134088
+Author = Plains Walker#6334| Channel = general| Said: The new state stay at home order| At: 2020-03-23 16:05:40.044467
+Author = Plains Walker#6334| Channel = general| Said: Currently live on the news channels| At: 2020-03-23 16:06:00.945713
+Author = Superamazatron#1662| Channel = general| Said: Is it for new Mexico. Cause I just read up on it and it doesn't seem like it| At: 2020-03-23 16:07:59.981154
+Author = Plains Walker#6334| Channel = general| Said: It's state mandated so yeah just NM| At: 2020-03-23 16:08:27.710244
+Author = Plains Walker#6334| Channel = general| Said: Don't know where you read it but the governor is on TV live right now talking about the restrictions| At: 2020-03-23 16:09:11.836245
+Author = Superamazatron#1662| Channel = general| Said: Well, damn| At: 2020-03-23 16:10:06.932677
+Author = Plains Walker#6334| Channel = general| Said: No groups larger than five, all non essential businesses are shut down. Those are the main things but there is more I'm just not sure what's going on fully| At: 2020-03-23 16:11:16.211408
+Author = TrainableEwe0#4876| Channel = general| Said: Cool| At: 2020-03-23 16:11:33.668264
+Author = TrainableEwe0#4876| Channel = general| Said: Iï¿½m in Arizona so I guess I... uh...| At: 2020-03-23 16:11:47.406291
+Author = Superamazatron#1662| Channel = general| Said: It sucks cause I'm currently at work| At: 2020-03-23 16:11:57.150599
+Author = TrainableEwe0#4876| Channel = general| Said: Hm| At: 2020-03-23 16:11:58.755146
+Author = TrainableEwe0#4876| Channel = general| Said: *how to stay at home away from home*| At: 2020-03-23 16:12:09.529294
+Author = Plains Walker#6334| Channel = general| Said: Well Sean looks like you might not be getting home| At: 2020-03-23 16:12:34.025305
+Author = Plains Walker#6334| Channel = general| Said: Depending how much worse this gets| At: 2020-03-23 16:12:45.151565
+Author = TrainableEwe0#4876| Channel = general| Said: Nah Iï¿½ll come home I think I just have to self isolate| At: 2020-03-23 16:12:56.164443
+Author = Plains Walker#6334| Channel = general| Said: So long as there is no more than five people with you it's possible but they are talking about how much traveling is spreading this virus| At: 2020-03-23 16:14:22.812397
+Author = Plains Walker#6334| Channel = general| Said: They are getting pretty serious it seems| At: 2020-03-23 16:14:40.356753
+Author = Plains Walker#6334| Channel = general| Said: And jack where do you work?| At: 2020-03-23 16:14:56.987067
+Author = Superamazatron#1662| Channel = general| Said: The fuller lodge art center. Its coled so I'm taking inventory. #schoolfacilitatedinterndship| At: 2020-03-23 16:22:15.889487
+Author = Plains Walker#6334| Channel = general| Said: Yeah that may be closed down| At: 2020-03-23 16:23:21.120574
+Author = Plains Walker#6334| Channel = general| Said: They are working on some payment plans to where people can still get payed but it's not working yet| At: 2020-03-23 16:26:39.371720
+Author = RonMan#6087| Channel = general| Said: my vr game is a little fucking awesome ngl| At: 2020-03-24 00:44:56.248950
+Author = alex151821#0266| Channel = general| Said: Which, Alyx?| At: 2020-03-24 00:45:24.495405
+Author = Plains Walker#6334| Channel = general| Said: I'm assuming 500 for the VR headset| At: 2020-03-24 00:46:05.579800
+Author = Plains Walker#6334| Channel = general| Said: As well as the game not just the game| At: 2020-03-24 00:46:22.478580

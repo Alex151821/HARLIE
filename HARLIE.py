@@ -5,7 +5,6 @@ from keep_alive import keep_alive
 from datetime import datetime as dt
 import time
 import random
-import youtube_dl
 
 client = commands.Bot(command_prefix = ':')
 
@@ -74,20 +73,6 @@ async def roll(ctx):
         b.append(random.randint(0, int(a[2])))
       final.append(str(b[random.randint(0, 4)]))
     """
-
-@client.command()
-async def join(ctx):
-  channel = ctx.message.author.voice.channel
-  await channel.connect()
-
-@client.command()
-async def leave(ctx):
-  await ctx.voice_client.disconnect()
-"""
-@client.command()
-async def play(ctx, url):
-  server = ctx.message.server
-"""
   
 
 
